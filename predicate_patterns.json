@@ -1,0 +1,102 @@
+{
+  "Attachment": {
+    "['MediaType']": {
+      "IS_OF_TYPE": 4
+    }
+  },
+  "Entity": {
+    "['Entity']": {
+      "OBSERVED_IN": 7,
+      "BELONGS_TO": 7,
+      "ANALYZED": 2,
+      "REVIEWED": 4,
+      "OCCURRED_AT": 6,
+      "MODIFIED": 5,
+      "ASSOCIATED_WITH": 8,
+      "LINKED_TO": 8,
+      "REPORTS_TO": 5,
+      "ASSIGNED": 6,
+      "DELETED": 2,
+      "MONITORED_BY": 4,
+      "MANAGES": 5,
+      "APPROVED": 4,
+      "RELATED_TO": 4,
+      "ESCALATED": 4,
+      "WORKS_FOR": 1,
+      "RESOLVED": 4,
+      "CONNECTED_TO": 3,
+      "CREATED": 3,
+      "RAISED": 3,
+      "COLLABORATES_WITH": 1
+    }
+  },
+  "User": {
+    "Issue": {
+      "RAISED": 31
+    },
+    "Idea": {
+      "PROPOSED": 31
+    },
+    "Platform": {
+      "USES": 31
+    },
+    "Domain": {
+      "WORKS_IN": 31
+    }
+  },
+  "Analyst": {
+    "Trend": {
+      "AUTHORED": 31
+    },
+    "Report": {
+      "CREATED": 31
+    },
+    "Domain": {
+      "ANALYZES": 31
+    },
+    "Region": {
+      "COVERS": 31
+    }
+  },
+  "Contributor": {
+    "Idea": {
+      "DEVELOPED": 31
+    },
+    "Project": {
+      "LEADS": 31
+    },
+    "Platform": {
+      "IMPROVES": 31
+    },
+    "ImpactArea": {
+      "TARGETS": 31
+    }
+  },
+  "Issue": {
+    "Platform": {
+      "ORIGINATED_FROM": 31
+    },
+    "Domain": {
+      "BELONGS_TO": 31
+    },
+    "Status": {
+      "HAS_STATUS": 31
+    }
+  },
+  "Trend": {
+    "Region": {
+      "OBSERVED_IN": 31
+    },
+    "Domain": {
+      "BELONGS_TO": 31
+    }
+  },
+  "Idea": {
+    "ImpactArea": {
+      "HAS_IMPACT_ON": 31
+    },
+    "Platform": {
+      "ORIGINATED_FROM": 31
+    }
+  }
+}

@@ -1,0 +1,2438 @@
+{
+  "metadata": {
+    "created_at": "2025-08-15T22:39:25.350549",
+    "created_for": "manual_labelling_and_quality_review",
+    "graph_statistics": {
+      "total_nodes": 593,
+      "total_relationships": 1899
+    },
+    "sampling_statistics": {
+      "total_nodes_in_graph": 593,
+      "total_relationships_in_graph": 1899,
+      "sampled_nodes": 30,
+      "sampled_relationships": 50,
+      "sampling_timestamp": "2025-08-15T22:39:25.350549"
+    },
+    "instructions": {
+      "node_labelling": "Review and correct node names, types, and add quality scores",
+      "relationship_validation": "Verify relationship correctness and suggest improvements",
+      "quality_scoring": "Rate confidence on scale of 1-5 (5=highest confidence)"
+    }
+  },
+  "nodes_for_labelling": [
+    {
+      "node_id": "4:7327e003-d484-440b-8044-e2f09862ebea:505",
+      "current_name": "Idea_22",
+      "current_type": [
+        "Entity"
+      ],
+      "current_properties": {
+        "name": "Idea_22",
+        "last_updated": "2025-08-15T16:34:17.831000000+00:00",
+        "entity_role": "object"
+      },
+      "connection_strength": {
+        "outgoing": 0,
+        "incoming": 4,
+        "total": 4
+      },
+      "quality_assessment": {
+        "name_quality": "",
+        "type_accuracy": "",
+        "overall_quality": ""
+      },
+      "corrections": {
+        "suggested_name": "",
+        "suggested_type": "",
+        "additional_properties": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "node_id": "4:7327e003-d484-440b-8044-e2f09862ebea:229",
+      "current_name": "Contributor_22",
+      "current_type": [
+        "Entity"
+      ],
+      "current_properties": {
+        "name": "Contributor_22",
+        "last_updated": "2025-08-15T16:42:11.190000000+00:00",
+        "entity_role": "subject"
+      },
+      "connection_strength": {
+        "outgoing": 8,
+        "incoming": 0,
+        "total": 8
+      },
+      "quality_assessment": {
+        "name_quality": "",
+        "type_accuracy": "",
+        "overall_quality": ""
+      },
+      "corrections": {
+        "suggested_name": "",
+        "suggested_type": "",
+        "additional_properties": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "node_id": "4:7327e003-d484-440b-8044-e2f09862ebea:65",
+      "current_name": "Open",
+      "current_type": [
+        "Entity"
+      ],
+      "current_properties": {
+        "name": "Open",
+        "last_updated": "2025-08-15T16:42:12.106000000+00:00",
+        "entity_role": "object"
+      },
+      "connection_strength": {
+        "outgoing": 0,
+        "incoming": 41,
+        "total": 41
+      },
+      "quality_assessment": {
+        "name_quality": "",
+        "type_accuracy": "",
+        "overall_quality": ""
+      },
+      "corrections": {
+        "suggested_name": "",
+        "suggested_type": "",
+        "additional_properties": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "node_id": "4:7327e003-d484-440b-8044-e2f09862ebea:100",
+      "current_name": "Exsight",
+      "current_type": [
+        "Entity"
+      ],
+      "current_properties": {
+        "name": "Exsight",
+        "last_updated": "2025-08-15T16:42:11.594000000+00:00",
+        "entity_role": "object"
+      },
+      "connection_strength": {
+        "outgoing": 0,
+        "incoming": 56,
+        "total": 56
+      },
+      "quality_assessment": {
+        "name_quality": "",
+        "type_accuracy": "",
+        "overall_quality": ""
+      },
+      "corrections": {
+        "suggested_name": "",
+        "suggested_type": "",
+        "additional_properties": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "node_id": "4:7327e003-d484-440b-8044-e2f09862ebea:44",
+      "current_name": "InnovateX",
+      "current_type": [
+        "Entity"
+      ],
+      "current_properties": {
+        "name": "InnovateX",
+        "last_updated": "2025-08-15T16:42:11.765000000+00:00",
+        "entity_role": "object"
+      },
+      "connection_strength": {
+        "outgoing": 0,
+        "incoming": 49,
+        "total": 49
+      },
+      "quality_assessment": {
+        "name_quality": "",
+        "type_accuracy": "",
+        "overall_quality": ""
+      },
+      "corrections": {
+        "suggested_name": "",
+        "suggested_type": "",
+        "additional_properties": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "node_id": "4:7327e003-d484-440b-8044-e2f09862ebea:81",
+      "current_name": "Afkari",
+      "current_type": [
+        "Entity"
+      ],
+      "current_properties": {
+        "name": "Afkari",
+        "last_updated": "2025-08-15T16:42:12.216000000+00:00",
+        "entity_role": "object"
+      },
+      "connection_strength": {
+        "outgoing": 0,
+        "incoming": 52,
+        "total": 52
+      },
+      "quality_assessment": {
+        "name_quality": "",
+        "type_accuracy": "",
+        "overall_quality": ""
+      },
+      "corrections": {
+        "suggested_name": "",
+        "suggested_type": "",
+        "additional_properties": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "node_id": "4:7327e003-d484-440b-8044-e2f09862ebea:250",
+      "current_name": "User_40",
+      "current_type": [
+        "Entity"
+      ],
+      "current_properties": {
+        "name": "User_40",
+        "last_updated": "2025-08-15T16:34:19.027000000+00:00",
+        "entity_role": "subject"
+      },
+      "connection_strength": {
+        "outgoing": 4,
+        "incoming": 0,
+        "total": 4
+      },
+      "quality_assessment": {
+        "name_quality": "",
+        "type_accuracy": "",
+        "overall_quality": ""
+      },
+      "corrections": {
+        "suggested_name": "",
+        "suggested_type": "",
+        "additional_properties": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "node_id": "4:7327e003-d484-440b-8044-e2f09862ebea:48",
+      "current_name": "Project_3",
+      "current_type": [
+        "Entity"
+      ],
+      "current_properties": {
+        "name": "Project_3",
+        "last_updated": "2025-08-15T16:34:18.948000000+00:00",
+        "entity_role": "subject"
+      },
+      "connection_strength": {
+        "outgoing": 7,
+        "incoming": 0,
+        "total": 7
+      },
+      "quality_assessment": {
+        "name_quality": "",
+        "type_accuracy": "",
+        "overall_quality": ""
+      },
+      "corrections": {
+        "suggested_name": "",
+        "suggested_type": "",
+        "additional_properties": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "node_id": "4:7327e003-d484-440b-8044-e2f09862ebea:168",
+      "current_name": "Security",
+      "current_type": [
+        "Entity"
+      ],
+      "current_properties": {
+        "name": "Security",
+        "last_updated": "2025-08-15T16:42:11.792000000+00:00",
+        "entity_role": "object"
+      },
+      "connection_strength": {
+        "outgoing": 0,
+        "incoming": 33,
+        "total": 33
+      },
+      "quality_assessment": {
+        "name_quality": "",
+        "type_accuracy": "",
+        "overall_quality": ""
+      },
+      "corrections": {
+        "suggested_name": "",
+        "suggested_type": "",
+        "additional_properties": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "node_id": "4:7327e003-d484-440b-8044-e2f09862ebea:51",
+      "current_name": "Issue_12",
+      "current_type": [
+        "Entity"
+      ],
+      "current_properties": {
+        "name": "Issue_12",
+        "last_updated": "2025-08-15T16:34:19.029000000+00:00",
+        "entity_role": "object"
+      },
+      "connection_strength": {
+        "outgoing": 0,
+        "incoming": 2,
+        "total": 2
+      },
+      "quality_assessment": {
+        "name_quality": "",
+        "type_accuracy": "",
+        "overall_quality": ""
+      },
+      "corrections": {
+        "suggested_name": "",
+        "suggested_type": "",
+        "additional_properties": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "node_id": "4:7327e003-d484-440b-8044-e2f09862ebea:315",
+      "current_name": "Jane_Doe",
+      "current_type": [
+        "User"
+      ],
+      "current_properties": {
+        "name": "Jane_Doe"
+      },
+      "connection_strength": {
+        "outgoing": 1,
+        "incoming": 0,
+        "total": 1
+      },
+      "quality_assessment": {
+        "name_quality": "",
+        "type_accuracy": "",
+        "overall_quality": ""
+      },
+      "corrections": {
+        "suggested_name": "",
+        "suggested_type": "",
+        "additional_properties": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "node_id": "4:7327e003-d484-440b-8044-e2f09862ebea:78",
+      "current_name": "US",
+      "current_type": [
+        "Entity"
+      ],
+      "current_properties": {
+        "name": "US",
+        "last_updated": "2025-08-15T16:42:10.883000000+00:00",
+        "entity_role": "object"
+      },
+      "connection_strength": {
+        "outgoing": 0,
+        "incoming": 34,
+        "total": 34
+      },
+      "quality_assessment": {
+        "name_quality": "",
+        "type_accuracy": "",
+        "overall_quality": ""
+      },
+      "corrections": {
+        "suggested_name": "",
+        "suggested_type": "",
+        "additional_properties": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "node_id": "4:7327e003-d484-440b-8044-e2f09862ebea:103",
+      "current_name": "Draft",
+      "current_type": [
+        "Entity"
+      ],
+      "current_properties": {
+        "name": "Draft",
+        "last_updated": "2025-08-15T16:42:11.778000000+00:00",
+        "entity_role": "object"
+      },
+      "connection_strength": {
+        "outgoing": 0,
+        "incoming": 38,
+        "total": 38
+      },
+      "quality_assessment": {
+        "name_quality": "",
+        "type_accuracy": "",
+        "overall_quality": ""
+      },
+      "corrections": {
+        "suggested_name": "",
+        "suggested_type": "",
+        "additional_properties": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "node_id": "4:7327e003-d484-440b-8044-e2f09862ebea:32",
+      "current_name": "Published",
+      "current_type": [
+        "Status"
+      ],
+      "current_properties": {
+        "name": "Published"
+      },
+      "connection_strength": {
+        "outgoing": 0,
+        "incoming": 5,
+        "total": 5
+      },
+      "quality_assessment": {
+        "name_quality": "",
+        "type_accuracy": "",
+        "overall_quality": ""
+      },
+      "corrections": {
+        "suggested_name": "",
+        "suggested_type": "",
+        "additional_properties": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "node_id": "4:7327e003-d484-440b-8044-e2f09862ebea:344",
+      "current_name": "Compliance",
+      "current_type": [
+        "ImpactArea"
+      ],
+      "current_properties": {
+        "name": "Compliance"
+      },
+      "connection_strength": {
+        "outgoing": 0,
+        "incoming": 1,
+        "total": 1
+      },
+      "quality_assessment": {
+        "name_quality": "",
+        "type_accuracy": "",
+        "overall_quality": ""
+      },
+      "corrections": {
+        "suggested_name": "",
+        "suggested_type": "",
+        "additional_properties": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "node_id": "4:7327e003-d484-440b-8044-e2f09862ebea:109",
+      "current_name": "APAC",
+      "current_type": [
+        "Entity"
+      ],
+      "current_properties": {
+        "name": "APAC",
+        "last_updated": "2025-08-15T16:42:11.785000000+00:00",
+        "entity_role": "object"
+      },
+      "connection_strength": {
+        "outgoing": 0,
+        "incoming": 34,
+        "total": 34
+      },
+      "quality_assessment": {
+        "name_quality": "",
+        "type_accuracy": "",
+        "overall_quality": ""
+      },
+      "corrections": {
+        "suggested_name": "",
+        "suggested_type": "",
+        "additional_properties": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "node_id": "4:7327e003-d484-440b-8044-e2f09862ebea:85",
+      "current_name": "InsightUX",
+      "current_type": [
+        "Entity"
+      ],
+      "current_properties": {
+        "name": "InsightUX",
+        "last_updated": "2025-08-15T16:42:11.970000000+00:00",
+        "entity_role": "object"
+      },
+      "connection_strength": {
+        "outgoing": 0,
+        "incoming": 57,
+        "total": 57
+      },
+      "quality_assessment": {
+        "name_quality": "",
+        "type_accuracy": "",
+        "overall_quality": ""
+      },
+      "corrections": {
+        "suggested_name": "",
+        "suggested_type": "",
+        "additional_properties": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "node_id": "4:7327e003-d484-440b-8044-e2f09862ebea:340",
+      "current_name": "AI_Customer_Segmentation",
+      "current_type": [
+        "Idea"
+      ],
+      "current_properties": {
+        "name": "AI_Customer_Segmentation"
+      },
+      "connection_strength": {
+        "outgoing": 5,
+        "incoming": 1,
+        "total": 6
+      },
+      "quality_assessment": {
+        "name_quality": "",
+        "type_accuracy": "",
+        "overall_quality": ""
+      },
+      "corrections": {
+        "suggested_name": "",
+        "suggested_type": "",
+        "additional_properties": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "node_id": "4:7327e003-d484-440b-8044-e2f09862ebea:204",
+      "current_name": "User_30",
+      "current_type": [
+        "Entity"
+      ],
+      "current_properties": {
+        "name": "User_30",
+        "last_updated": "2025-08-15T16:34:17.602000000+00:00",
+        "entity_role": "subject"
+      },
+      "connection_strength": {
+        "outgoing": 8,
+        "incoming": 0,
+        "total": 8
+      },
+      "quality_assessment": {
+        "name_quality": "",
+        "type_accuracy": "",
+        "overall_quality": ""
+      },
+      "corrections": {
+        "suggested_name": "",
+        "suggested_type": "",
+        "additional_properties": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "node_id": "4:7327e003-d484-440b-8044-e2f09862ebea:40",
+      "current_name": "Finance",
+      "current_type": [
+        "Entity"
+      ],
+      "current_properties": {
+        "name": "Finance",
+        "last_updated": "2025-08-15T16:42:12.121000000+00:00",
+        "entity_role": "object"
+      },
+      "connection_strength": {
+        "outgoing": 0,
+        "incoming": 36,
+        "total": 36
+      },
+      "quality_assessment": {
+        "name_quality": "",
+        "type_accuracy": "",
+        "overall_quality": ""
+      },
+      "corrections": {
+        "suggested_name": "",
+        "suggested_type": "",
+        "additional_properties": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "node_id": "4:7327e003-d484-440b-8044-e2f09862ebea:68",
+      "current_name": "Retail",
+      "current_type": [
+        "Entity"
+      ],
+      "current_properties": {
+        "name": "Retail",
+        "last_updated": "2025-08-15T16:42:11.385000000+00:00",
+        "entity_role": "object"
+      },
+      "connection_strength": {
+        "outgoing": 0,
+        "incoming": 33,
+        "total": 33
+      },
+      "quality_assessment": {
+        "name_quality": "",
+        "type_accuracy": "",
+        "overall_quality": ""
+      },
+      "corrections": {
+        "suggested_name": "",
+        "suggested_type": "",
+        "additional_properties": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "node_id": "4:7327e003-d484-440b-8044-e2f09862ebea:442",
+      "current_name": "Analyst_14",
+      "current_type": [
+        "Entity"
+      ],
+      "current_properties": {
+        "name": "Analyst_14",
+        "last_updated": "2025-08-15T16:42:09.931000000+00:00",
+        "entity_role": "subject"
+      },
+      "connection_strength": {
+        "outgoing": 10,
+        "incoming": 0,
+        "total": 10
+      },
+      "quality_assessment": {
+        "name_quality": "",
+        "type_accuracy": "",
+        "overall_quality": ""
+      },
+      "corrections": {
+        "suggested_name": "",
+        "suggested_type": "",
+        "additional_properties": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "node_id": "4:7327e003-d484-440b-8044-e2f09862ebea:352",
+      "current_name": "User_50",
+      "current_type": [
+        "Entity"
+      ],
+      "current_properties": {
+        "name": "User_50",
+        "last_updated": "2025-08-15T16:42:12.117000000+00:00",
+        "entity_role": "subject"
+      },
+      "connection_strength": {
+        "outgoing": 11,
+        "incoming": 0,
+        "total": 11
+      },
+      "quality_assessment": {
+        "name_quality": "",
+        "type_accuracy": "",
+        "overall_quality": ""
+      },
+      "corrections": {
+        "suggested_name": "",
+        "suggested_type": "",
+        "additional_properties": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "node_id": "4:7327e003-d484-440b-8044-e2f09862ebea:205",
+      "current_name": "India",
+      "current_type": [
+        "Entity"
+      ],
+      "current_properties": {
+        "name": "India",
+        "last_updated": "2025-08-15T16:42:11.783000000+00:00",
+        "entity_role": "object"
+      },
+      "connection_strength": {
+        "outgoing": 0,
+        "incoming": 36,
+        "total": 36
+      },
+      "quality_assessment": {
+        "name_quality": "",
+        "type_accuracy": "",
+        "overall_quality": ""
+      },
+      "corrections": {
+        "suggested_name": "",
+        "suggested_type": "",
+        "additional_properties": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "node_id": "4:7327e003-d484-440b-8044-e2f09862ebea:237",
+      "current_name": "Idea_46",
+      "current_type": [
+        "Entity"
+      ],
+      "current_properties": {
+        "name": "Idea_46",
+        "last_updated": "2025-08-15T16:34:18.072000000+00:00",
+        "entity_role": "object"
+      },
+      "connection_strength": {
+        "outgoing": 0,
+        "incoming": 3,
+        "total": 3
+      },
+      "quality_assessment": {
+        "name_quality": "",
+        "type_accuracy": "",
+        "overall_quality": ""
+      },
+      "corrections": {
+        "suggested_name": "",
+        "suggested_type": "",
+        "additional_properties": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "node_id": "4:7327e003-d484-440b-8044-e2f09862ebea:34",
+      "current_name": "Technical",
+      "current_type": [
+        "Entity"
+      ],
+      "current_properties": {
+        "name": "Technical",
+        "last_updated": "2025-08-15T16:42:12.100000000+00:00",
+        "entity_role": "object"
+      },
+      "connection_strength": {
+        "outgoing": 0,
+        "incoming": 39,
+        "total": 39
+      },
+      "quality_assessment": {
+        "name_quality": "",
+        "type_accuracy": "",
+        "overall_quality": ""
+      },
+      "corrections": {
+        "suggested_name": "",
+        "suggested_type": "",
+        "additional_properties": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "node_id": "4:7327e003-d484-440b-8044-e2f09862ebea:532",
+      "current_name": "Issue_15",
+      "current_type": [
+        "Entity"
+      ],
+      "current_properties": {
+        "name": "Issue_15",
+        "last_updated": "2025-08-14T18:59:52.471000000+00:00",
+        "entity_role": "object"
+      },
+      "connection_strength": {
+        "outgoing": 0,
+        "incoming": 1,
+        "total": 1
+      },
+      "quality_assessment": {
+        "name_quality": "",
+        "type_accuracy": "",
+        "overall_quality": ""
+      },
+      "corrections": {
+        "suggested_name": "",
+        "suggested_type": "",
+        "additional_properties": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "node_id": "4:7327e003-d484-440b-8044-e2f09862ebea:156",
+      "current_name": "EMEA",
+      "current_type": [
+        "Entity"
+      ],
+      "current_properties": {
+        "name": "EMEA",
+        "last_updated": "2025-08-15T16:42:12.123000000+00:00",
+        "entity_role": "object"
+      },
+      "connection_strength": {
+        "outgoing": 0,
+        "incoming": 46,
+        "total": 46
+      },
+      "quality_assessment": {
+        "name_quality": "",
+        "type_accuracy": "",
+        "overall_quality": ""
+      },
+      "corrections": {
+        "suggested_name": "",
+        "suggested_type": "",
+        "additional_properties": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "node_id": "4:7327e003-d484-440b-8044-e2f09862ebea:42",
+      "current_name": "Under_Review",
+      "current_type": [
+        "Entity"
+      ],
+      "current_properties": {
+        "name": "Under_Review",
+        "last_updated": "2025-08-15T16:42:11.972000000+00:00",
+        "entity_role": "object"
+      },
+      "connection_strength": {
+        "outgoing": 0,
+        "incoming": 48,
+        "total": 48
+      },
+      "quality_assessment": {
+        "name_quality": "",
+        "type_accuracy": "",
+        "overall_quality": ""
+      },
+      "corrections": {
+        "suggested_name": "",
+        "suggested_type": "",
+        "additional_properties": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "node_id": "4:7327e003-d484-440b-8044-e2f09862ebea:239",
+      "current_name": "Trend_7",
+      "current_type": [
+        "Entity"
+      ],
+      "current_properties": {
+        "name": "Trend_7",
+        "last_updated": "2025-08-15T14:26:51.315000000+00:00",
+        "entity_role": "object"
+      },
+      "connection_strength": {
+        "outgoing": 0,
+        "incoming": 4,
+        "total": 4
+      },
+      "quality_assessment": {
+        "name_quality": "",
+        "type_accuracy": "",
+        "overall_quality": ""
+      },
+      "corrections": {
+        "suggested_name": "",
+        "suggested_type": "",
+        "additional_properties": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    }
+  ],
+  "relationships_for_labelling": [
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1152928101676613665",
+      "relationship_triple": {
+        "source": "['Entity']:Company_2",
+        "relationship": "OBSERVED_IN",
+        "target": "['Entity']:Retail"
+      },
+      "relationship_properties": {
+        "object_type": "domains",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_2",
+        "triplet_id": "triplet_274_1755191719",
+        "subject_type": "companies",
+        "confidence": 0.9422112482207649,
+        "created_time": "2025-08-14T22:45:19.994195",
+        "relationship_type": "observations"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1152987475304513569",
+      "relationship_triple": {
+        "source": "['Entity']:Company_2",
+        "relationship": "OCCURRED_AT",
+        "target": "['Entity']:Technical"
+      },
+      "relationship_properties": {
+        "object_type": "domains",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_0",
+        "triplet_id": "triplet_1_1755191719",
+        "subject_type": "companies",
+        "confidence": 0.9118915000921209,
+        "created_time": "2025-08-14T22:45:19.992192",
+        "relationship_type": "observations"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1153000669444046881",
+      "relationship_triple": {
+        "source": "['Entity']:Company_2",
+        "relationship": "ASSIGNED",
+        "target": "['Entity']:EMEA"
+      },
+      "relationship_properties": {
+        "object_type": "regions",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_0",
+        "triplet_id": "triplet_41_1755268005",
+        "subject_type": "companies",
+        "confidence": 0.9785814945702395,
+        "created_time": "2025-08-15T19:56:45.438466",
+        "relationship_type": "interactions"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1153003967978930209",
+      "relationship_triple": {
+        "source": "['Entity']:Company_2",
+        "relationship": "DELETED",
+        "target": "['Entity']:Finance"
+      },
+      "relationship_properties": {
+        "object_type": "domains",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_1",
+        "triplet_id": "triplet_142_1755268005",
+        "subject_type": "companies",
+        "confidence": 0.7211369967851672,
+        "created_time": "2025-08-15T19:56:45.438466",
+        "relationship_type": "actions"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1157432800815611939",
+      "relationship_triple": {
+        "source": "['Entity']:Contributor_18",
+        "relationship": "BELONGS_TO",
+        "target": "['Entity']:Technical"
+      },
+      "relationship_properties": {
+        "object_type": "domains",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_1",
+        "triplet_id": "triplet_187_1755275654",
+        "subject_type": "contributors",
+        "confidence": 0.8076452675146533,
+        "created_time": "2025-08-15T22:04:14.364639",
+        "relationship_type": "connections"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1155239275118198819",
+      "relationship_triple": {
+        "source": "['Entity']:Contributor_18",
+        "relationship": "OCCURRED_AT",
+        "target": "['Entity']:Under_Review"
+      },
+      "relationship_properties": {
+        "object_type": "statuses",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_1",
+        "triplet_id": "triplet_104_1755197991",
+        "subject_type": "contributors",
+        "confidence": 0.6132677156255504,
+        "created_time": "2025-08-15T00:29:51.811853",
+        "relationship_type": "observations"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1152987475304513571",
+      "relationship_triple": {
+        "source": "['Entity']:Contributor_18",
+        "relationship": "OCCURRED_AT",
+        "target": "['Entity']:InnovateX"
+      },
+      "relationship_properties": {
+        "object_type": "platforms",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_1",
+        "triplet_id": "triplet_164_1755276125",
+        "subject_type": "contributors",
+        "confidence": 0.9476737293013113,
+        "created_time": "2025-08-15T22:12:05.845706",
+        "relationship_type": "observations"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1155240374629826595",
+      "relationship_triple": {
+        "source": "['Entity']:Contributor_18",
+        "relationship": "MODIFIED",
+        "target": "['Entity']:Draft"
+      },
+      "relationship_properties": {
+        "object_type": "statuses",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_1",
+        "triplet_id": "triplet_152_1755197991",
+        "subject_type": "contributors",
+        "confidence": 0.6466982098453353,
+        "created_time": "2025-08-15T00:29:51.811853",
+        "relationship_type": "actions"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1152992972862652451",
+      "relationship_triple": {
+        "source": "['Entity']:Contributor_18",
+        "relationship": "MONITORED_BY",
+        "target": "['Entity']:Retail"
+      },
+      "relationship_properties": {
+        "object_type": "domains",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_0",
+        "triplet_id": "triplet_40_1755268005",
+        "subject_type": "contributors",
+        "confidence": 0.8201848011989782,
+        "created_time": "2025-08-15T19:56:45.438466",
+        "relationship_type": "observations"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1152995171885908003",
+      "relationship_triple": {
+        "source": "['Entity']:Contributor_18",
+        "relationship": "APPROVED",
+        "target": "['Entity']:Technical"
+      },
+      "relationship_properties": {
+        "object_type": "domains",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_0",
+        "triplet_id": "triplet_73_1755197991",
+        "subject_type": "contributors",
+        "confidence": 0.761316296490916,
+        "created_time": "2025-08-15T00:29:51.811853",
+        "relationship_type": "interactions"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1155246971699593251",
+      "relationship_triple": {
+        "source": "['Entity']:Contributor_18",
+        "relationship": "APPROVED",
+        "target": "['Entity']:Exsight"
+      },
+      "relationship_properties": {
+        "object_type": "platforms",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_1",
+        "triplet_id": "triplet_168_1755197991",
+        "subject_type": "contributors",
+        "confidence": 0.9690119265622658,
+        "created_time": "2025-08-15T00:29:51.811853",
+        "relationship_type": "interactions"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1153002868467302435",
+      "relationship_triple": {
+        "source": "['Entity']:Contributor_18",
+        "relationship": "RELATED_TO",
+        "target": "['Entity']:Retail"
+      },
+      "relationship_properties": {
+        "object_type": "domains",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_1",
+        "triplet_id": "triplet_180_1755197991",
+        "subject_type": "contributors",
+        "confidence": 0.8125041637702947,
+        "created_time": "2025-08-15T00:29:51.811853",
+        "relationship_type": "links"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1152977579699863589",
+      "relationship_triple": {
+        "source": "['Entity']:Contributor_7",
+        "relationship": "REVIEWED",
+        "target": "['Entity']:Open"
+      },
+      "relationship_properties": {
+        "object_type": "statuses",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_1",
+        "triplet_id": "triplet_125_1755276125",
+        "subject_type": "contributors",
+        "confidence": 0.6958294924056081,
+        "created_time": "2025-08-15T22:12:05.845706",
+        "relationship_type": "actions"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1152990773839396901",
+      "relationship_triple": {
+        "source": "['Entity']:Contributor_7",
+        "relationship": "ASSOCIATED_WITH",
+        "target": "['Entity']:Finance"
+      },
+      "relationship_properties": {
+        "object_type": "domains",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_2",
+        "triplet_id": "triplet_250_1755191719",
+        "subject_type": "contributors",
+        "confidence": 0.6747802142020662,
+        "created_time": "2025-08-14T22:45:19.993193",
+        "relationship_type": "links"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1155243673164709925",
+      "relationship_triple": {
+        "source": "['Entity']:Contributor_7",
+        "relationship": "LINKED_TO",
+        "target": "['Entity']:InnovateX"
+      },
+      "relationship_properties": {
+        "object_type": "platforms",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_1",
+        "triplet_id": "triplet_102_1755268005",
+        "subject_type": "contributors",
+        "confidence": 0.6218364258316463,
+        "created_time": "2025-08-15T19:56:45.438466",
+        "relationship_type": "links"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1152998470420791333",
+      "relationship_triple": {
+        "source": "['Entity']:Contributor_7",
+        "relationship": "ESCALATED",
+        "target": "['Entity']:Under_Review"
+      },
+      "relationship_properties": {
+        "object_type": "statuses",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_0",
+        "triplet_id": "triplet_2_1755199154",
+        "subject_type": "contributors",
+        "confidence": 0.7729140220972545,
+        "created_time": "2025-08-15T00:49:14.243721",
+        "relationship_type": "interactions"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1153001768955674661",
+      "relationship_triple": {
+        "source": "['Entity']:Contributor_7",
+        "relationship": "WORKS_FOR",
+        "target": "['Entity']:US"
+      },
+      "relationship_properties": {
+        "object_type": "regions",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_0",
+        "triplet_id": "triplet_31_1755191719",
+        "subject_type": "contributors",
+        "confidence": 0.8403553050419308,
+        "created_time": "2025-08-14T22:45:19.992192",
+        "relationship_type": "connections"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1155254668280987685",
+      "relationship_triple": {
+        "source": "['Entity']:Contributor_7",
+        "relationship": "RELATED_TO",
+        "target": "['Entity']:Under_Review"
+      },
+      "relationship_properties": {
+        "object_type": "statuses",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_0",
+        "triplet_id": "triplet_1_1755275654",
+        "subject_type": "contributors",
+        "confidence": 0.7403736896561789,
+        "created_time": "2025-08-15T22:04:14.363599",
+        "relationship_type": "links"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1153002868467302437",
+      "relationship_triple": {
+        "source": "['Entity']:Contributor_7",
+        "relationship": "RELATED_TO",
+        "target": "['Entity']:InnovateX"
+      },
+      "relationship_properties": {
+        "object_type": "platforms",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_3",
+        "triplet_id": "triplet_341_1755191719",
+        "subject_type": "contributors",
+        "confidence": 0.9398939424241599,
+        "created_time": "2025-08-14T22:45:19.994195",
+        "relationship_type": "links"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1155179901490298919",
+      "relationship_triple": {
+        "source": "['Entity']:Project_22",
+        "relationship": "OBSERVED_IN",
+        "target": "['Entity']:Finance"
+      },
+      "relationship_properties": {
+        "object_type": "domains",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_1",
+        "triplet_id": "triplet_196_1755276125",
+        "subject_type": "projects",
+        "confidence": 0.878639962390898,
+        "created_time": "2025-08-15T22:12:05.845706",
+        "relationship_type": "observations"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1152928101676613671",
+      "relationship_triple": {
+        "source": "['Entity']:Project_22",
+        "relationship": "OBSERVED_IN",
+        "target": "['Entity']:India"
+      },
+      "relationship_properties": {
+        "object_type": "regions",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_1",
+        "triplet_id": "triplet_200_1755275654",
+        "subject_type": "projects",
+        "confidence": 0.7586482663065833,
+        "created_time": "2025-08-15T22:04:14.365651",
+        "relationship_type": "observations"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1152929201188241447",
+      "relationship_triple": {
+        "source": "['Entity']:Project_22",
+        "relationship": "BELONGS_TO",
+        "target": "['Entity']:Finance"
+      },
+      "relationship_properties": {
+        "object_type": "domains",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_0",
+        "triplet_id": "triplet_4_1755191719",
+        "subject_type": "projects",
+        "confidence": 0.8929096799641554,
+        "created_time": "2025-08-14T22:45:19.992192",
+        "relationship_type": "connections"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1152921504606847017",
+      "relationship_triple": {
+        "source": "['Entity']:System_20",
+        "relationship": "RAISED",
+        "target": "['Entity']:US"
+      },
+      "relationship_properties": {
+        "object_type": "regions",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_1",
+        "triplet_id": "triplet_165_1755197991",
+        "subject_type": "systems",
+        "confidence": 0.6745357315668581,
+        "created_time": "2025-08-15T00:29:51.811853",
+        "relationship_type": "interactions"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1152989674327769129",
+      "relationship_triple": {
+        "source": "['Entity']:System_20",
+        "relationship": "CONNECTED_TO",
+        "target": "['Entity']:Under_Review"
+      },
+      "relationship_properties": {
+        "object_type": "statuses",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_0",
+        "triplet_id": "triplet_5_1755191719",
+        "subject_type": "systems",
+        "confidence": 0.6376193525705027,
+        "created_time": "2025-08-14T22:45:19.992192",
+        "relationship_type": "links"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1152990773839396905",
+      "relationship_triple": {
+        "source": "['Entity']:System_20",
+        "relationship": "ASSOCIATED_WITH",
+        "target": "['Entity']:Technical"
+      },
+      "relationship_properties": {
+        "object_type": "domains",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_0",
+        "triplet_id": "triplet_9_1755268005",
+        "subject_type": "systems",
+        "confidence": 0.7959205608792719,
+        "created_time": "2025-08-15T19:56:45.438466",
+        "relationship_type": "links"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1152992972862652457",
+      "relationship_triple": {
+        "source": "['Entity']:System_20",
+        "relationship": "MONITORED_BY",
+        "target": "['Entity']:Under_Review"
+      },
+      "relationship_properties": {
+        "object_type": "statuses",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_2",
+        "triplet_id": "triplet_285_1755191719",
+        "subject_type": "systems",
+        "confidence": 0.7435230071224402,
+        "created_time": "2025-08-14T22:45:19.994195",
+        "relationship_type": "observations"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1152994072374280233",
+      "relationship_triple": {
+        "source": "['Entity']:System_20",
+        "relationship": "MANAGES",
+        "target": "['Entity']:EMEA"
+      },
+      "relationship_properties": {
+        "object_type": "regions",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_0",
+        "triplet_id": "triplet_90_1755197991",
+        "subject_type": "systems",
+        "confidence": 0.698498112631724,
+        "created_time": "2025-08-15T00:29:51.811853",
+        "relationship_type": "connections"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1152998470420791337",
+      "relationship_triple": {
+        "source": "['Entity']:System_20",
+        "relationship": "ESCALATED",
+        "target": "['Entity']:Retail"
+      },
+      "relationship_properties": {
+        "object_type": "domains",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_1",
+        "triplet_id": "triplet_158_1755199154",
+        "subject_type": "systems",
+        "confidence": 0.699319914271836,
+        "created_time": "2025-08-15T00:49:14.243721",
+        "relationship_type": "interactions"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1152999569932419113",
+      "relationship_triple": {
+        "source": "['Entity']:System_20",
+        "relationship": "CREATED",
+        "target": "['Entity']:Technical"
+      },
+      "relationship_properties": {
+        "object_type": "domains",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_0",
+        "triplet_id": "triplet_29_1755197991",
+        "subject_type": "systems",
+        "confidence": 0.7069981995468589,
+        "created_time": "2025-08-15T00:29:51.811853",
+        "relationship_type": "actions"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1153000669444046889",
+      "relationship_triple": {
+        "source": "['Entity']:System_20",
+        "relationship": "ASSIGNED",
+        "target": "['Entity']:Finance"
+      },
+      "relationship_properties": {
+        "object_type": "domains",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_3",
+        "triplet_id": "triplet_330_1755191719",
+        "subject_type": "systems",
+        "confidence": 0.6078551404843252,
+        "created_time": "2025-08-14T22:45:19.994195",
+        "relationship_type": "interactions"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1152973181653352491",
+      "relationship_triple": {
+        "source": "['Entity']:Contributor_5",
+        "relationship": "COLLABORATES_WITH",
+        "target": "['Entity']:EMEA"
+      },
+      "relationship_properties": {
+        "object_type": "regions",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_2",
+        "triplet_id": "triplet_224_1755191719",
+        "subject_type": "contributors",
+        "confidence": 0.9827874902231963,
+        "created_time": "2025-08-14T22:45:19.993193",
+        "relationship_type": "connections"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1152989674327769131",
+      "relationship_triple": {
+        "source": "['Entity']:Contributor_5",
+        "relationship": "CONNECTED_TO",
+        "target": "['Entity']:InnovateX"
+      },
+      "relationship_properties": {
+        "object_type": "platforms",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_0",
+        "triplet_id": "triplet_6_1755191719",
+        "subject_type": "contributors",
+        "confidence": 0.7868778220700022,
+        "created_time": "2025-08-14T22:45:19.992192",
+        "relationship_type": "links"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1152994072374280235",
+      "relationship_triple": {
+        "source": "['Entity']:Contributor_5",
+        "relationship": "MANAGES",
+        "target": "['Entity']:EMEA"
+      },
+      "relationship_properties": {
+        "object_type": "regions",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_4",
+        "triplet_id": "triplet_402_1755191719",
+        "subject_type": "contributors",
+        "confidence": 0.6626825066073503,
+        "created_time": "2025-08-14T22:45:19.995194",
+        "relationship_type": "connections"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1155252469257732139",
+      "relationship_triple": {
+        "source": "['Entity']:Contributor_5",
+        "relationship": "ASSIGNED",
+        "target": "['Entity']:US"
+      },
+      "relationship_properties": {
+        "object_type": "regions",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_1",
+        "triplet_id": "triplet_181_1755197991",
+        "subject_type": "contributors",
+        "confidence": 0.6579975893734229,
+        "created_time": "2025-08-15T00:29:51.811853",
+        "relationship_type": "interactions"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1152968783606841389",
+      "relationship_triple": {
+        "source": "['Entity']:Contributor_25",
+        "relationship": "ANALYZED",
+        "target": "['Entity']:InsightUX"
+      },
+      "relationship_properties": {
+        "object_type": "platforms",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_0",
+        "triplet_id": "triplet_99_1755275654",
+        "subject_type": "contributors",
+        "confidence": 0.6253756926514273,
+        "created_time": "2025-08-15T22:04:14.364639",
+        "relationship_type": "actions"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1152977579699863597",
+      "relationship_triple": {
+        "source": "['Entity']:Contributor_25",
+        "relationship": "REVIEWED",
+        "target": "['Entity']:Retail"
+      },
+      "relationship_properties": {
+        "object_type": "domains",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_4",
+        "triplet_id": "triplet_403_1755191719",
+        "subject_type": "contributors",
+        "confidence": 0.7955609322662999,
+        "created_time": "2025-08-14T22:45:19.995194",
+        "relationship_type": "actions"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1152990773839396909",
+      "relationship_triple": {
+        "source": "['Entity']:Contributor_25",
+        "relationship": "ASSOCIATED_WITH",
+        "target": "['Entity']:Technical"
+      },
+      "relationship_properties": {
+        "object_type": "domains",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_0",
+        "triplet_id": "triplet_7_1755191719",
+        "subject_type": "contributors",
+        "confidence": 0.8835623444153344,
+        "created_time": "2025-08-14T22:45:19.992192",
+        "relationship_type": "links"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1153002868467302445",
+      "relationship_triple": {
+        "source": "['Entity']:Contributor_25",
+        "relationship": "RELATED_TO",
+        "target": "['Entity']:Under_Review"
+      },
+      "relationship_properties": {
+        "object_type": "statuses",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_1",
+        "triplet_id": "triplet_184_1755276125",
+        "subject_type": "contributors",
+        "confidence": 0.7496865511129179,
+        "created_time": "2025-08-15T22:12:05.845706",
+        "relationship_type": "links"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1152921504606847022",
+      "relationship_triple": {
+        "source": "['Entity']:System_17",
+        "relationship": "RAISED",
+        "target": "['Entity']:EMEA"
+      },
+      "relationship_properties": {
+        "object_type": "regions",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_0",
+        "triplet_id": "triplet_79_1755199154",
+        "subject_type": "systems",
+        "confidence": 0.604277780126505,
+        "created_time": "2025-08-15T00:49:14.243721",
+        "relationship_type": "interactions"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1152928101676613678",
+      "relationship_triple": {
+        "source": "['Entity']:System_17",
+        "relationship": "OBSERVED_IN",
+        "target": "['Entity']:Technical"
+      },
+      "relationship_properties": {
+        "object_type": "domains",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_0",
+        "triplet_id": "triplet_10_1755191719",
+        "subject_type": "systems",
+        "confidence": 0.8689228626438656,
+        "created_time": "2025-08-14T22:45:19.992192",
+        "relationship_type": "observations"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1155179901490298926",
+      "relationship_triple": {
+        "source": "['Entity']:System_17",
+        "relationship": "OBSERVED_IN",
+        "target": "['Entity']:Draft"
+      },
+      "relationship_properties": {
+        "object_type": "statuses",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_0",
+        "triplet_id": "triplet_66_1755191719",
+        "subject_type": "systems",
+        "confidence": 0.6299162977374971,
+        "created_time": "2025-08-14T22:45:19.992192",
+        "relationship_type": "observations"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1152977579699863600",
+      "relationship_triple": {
+        "source": "['Entity']:Project_3",
+        "relationship": "REVIEWED",
+        "target": "['Entity']:Trend_30"
+      },
+      "relationship_properties": {
+        "object_type": "trends",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_0",
+        "triplet_id": "triplet_15_1755275654",
+        "subject_type": "projects",
+        "confidence": 0.6459651586207033,
+        "created_time": "2025-08-15T22:04:14.363599",
+        "relationship_type": "actions"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1152990773839396912",
+      "relationship_triple": {
+        "source": "['Entity']:Project_3",
+        "relationship": "ASSOCIATED_WITH",
+        "target": "['Entity']:Trend_6"
+      },
+      "relationship_properties": {
+        "object_type": "trends",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_0",
+        "triplet_id": "triplet_9_1755191719",
+        "subject_type": "projects",
+        "confidence": 0.806396351664814,
+        "created_time": "2025-08-14T22:45:19.992192",
+        "relationship_type": "links"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:6917601595408515588",
+      "relationship_triple": {
+        "source": "['Entity']:Project_3",
+        "relationship": "MANAGES",
+        "target": "['Entity']:Metric_22"
+      },
+      "relationship_properties": {
+        "object_type": "metrics",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_0",
+        "triplet_id": "triplet_74_1755195183",
+        "subject_type": "projects",
+        "confidence": 0.6091119594732043,
+        "created_time": "2025-08-14T23:43:03.479497",
+        "relationship_type": "connections"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1152995171885908016",
+      "relationship_triple": {
+        "source": "['Entity']:Project_3",
+        "relationship": "APPROVED",
+        "target": "['Entity']:Trend_5"
+      },
+      "relationship_properties": {
+        "object_type": "trends",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_0",
+        "triplet_id": "triplet_91_1755199154",
+        "subject_type": "projects",
+        "confidence": 0.9151868729217296,
+        "created_time": "2025-08-15T00:49:14.243721",
+        "relationship_type": "interactions"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1152999569932419120",
+      "relationship_triple": {
+        "source": "['Entity']:Project_3",
+        "relationship": "CREATED",
+        "target": "['Entity']:Finance"
+      },
+      "relationship_properties": {
+        "object_type": "domains",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_1",
+        "triplet_id": "triplet_118_1755275654",
+        "subject_type": "projects",
+        "confidence": 0.8708888325255006,
+        "created_time": "2025-08-15T22:04:14.364639",
+        "relationship_type": "actions"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1153000669444046896",
+      "relationship_triple": {
+        "source": "['Entity']:Project_3",
+        "relationship": "ASSIGNED",
+        "target": "['Entity']:Trend_33"
+      },
+      "relationship_properties": {
+        "object_type": "trends",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_0",
+        "triplet_id": "triplet_78_1755197991",
+        "subject_type": "projects",
+        "confidence": 0.665760625402006,
+        "created_time": "2025-08-15T00:29:51.811853",
+        "relationship_type": "interactions"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1153005067490558000",
+      "relationship_triple": {
+        "source": "['Entity']:Project_3",
+        "relationship": "RESOLVED",
+        "target": "['Entity']:Manufacturing"
+      },
+      "relationship_properties": {
+        "object_type": "domains",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_1",
+        "triplet_id": "triplet_184_1755275654",
+        "subject_type": "projects",
+        "confidence": 0.7802538178736462,
+        "created_time": "2025-08-15T22:04:14.364639",
+        "relationship_type": "interactions"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1152992972862652466",
+      "relationship_triple": {
+        "source": "['Entity']:User_31",
+        "relationship": "MONITORED_BY",
+        "target": "['Entity']:Issue_12"
+      },
+      "relationship_properties": {
+        "object_type": "issues",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_0",
+        "triplet_id": "triplet_11_1755191719",
+        "subject_type": "people",
+        "confidence": 0.6051515846220149,
+        "created_time": "2025-08-14T22:45:19.992192",
+        "relationship_type": "observations"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    },
+    {
+      "relationship_id": "5:7327e003-d484-440b-8044-e2f09862ebea:1152928101676613684",
+      "relationship_triple": {
+        "source": "['Entity']:Analyst_21",
+        "relationship": "OBSERVED_IN",
+        "target": "['Entity']:Exsight"
+      },
+      "relationship_properties": {
+        "object_type": "platforms",
+        "quality_score": 1.0,
+        "source": "synthetic_data",
+        "batch": "batch_1",
+        "triplet_id": "triplet_173_1755275654",
+        "subject_type": "analysts",
+        "confidence": 0.7413666785217861,
+        "created_time": "2025-08-15T22:04:14.364639",
+        "relationship_type": "observations"
+      },
+      "validation": {
+        "is_semantically_correct": "",
+        "confidence_score": "",
+        "relationship_strength": ""
+      },
+      "corrections": {
+        "suggested_relationship_type": "",
+        "suggested_direction": "",
+        "additional_context": ""
+      },
+      "reviewer_notes": "",
+      "review_status": ""
+    }
+  ]
+}

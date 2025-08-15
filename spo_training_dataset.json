@@ -1,0 +1,5514 @@
+[
+  {
+    "subject": "filter_idea_pitch_mp4",
+    "subject_type": "Attachment",
+    "predicate": "IS_OF_TYPE",
+    "object": "Video",
+    "object_type": "['MediaType']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "ai_segmentation_pptx",
+    "subject_type": "Attachment",
+    "predicate": "IS_OF_TYPE",
+    "object": "Document",
+    "object_type": "['MediaType']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "remote_diag_trend_pdf",
+    "subject_type": "Attachment",
+    "predicate": "IS_OF_TYPE",
+    "object": "Document",
+    "object_type": "['MediaType']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "ai_workflow_chart_mp4",
+    "subject_type": "Attachment",
+    "predicate": "IS_OF_TYPE",
+    "object": "Video",
+    "object_type": "['MediaType']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Company_2",
+    "subject_type": "Entity",
+    "predicate": "OBSERVED_IN",
+    "object": "Retail",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Company_2",
+    "subject_type": "Entity",
+    "predicate": "BELONGS_TO",
+    "object": "Trend_33",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Company_2",
+    "subject_type": "Entity",
+    "predicate": "ANALYZED",
+    "object": "Global",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Company_2",
+    "subject_type": "Entity",
+    "predicate": "REVIEWED",
+    "object": "Idea_9",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Company_2",
+    "subject_type": "Entity",
+    "predicate": "OCCURRED_AT",
+    "object": "Technical",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Company_2",
+    "subject_type": "Entity",
+    "predicate": "MODIFIED",
+    "object": "Issue_7",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Company_2",
+    "subject_type": "Entity",
+    "predicate": "ASSOCIATED_WITH",
+    "object": "Trend_48",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Company_2",
+    "subject_type": "Entity",
+    "predicate": "LINKED_TO",
+    "object": "Metric_2",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Company_2",
+    "subject_type": "Entity",
+    "predicate": "LINKED_TO",
+    "object": "Idea_38",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Company_2",
+    "subject_type": "Entity",
+    "predicate": "REPORTS_TO",
+    "object": "Healthcare",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Company_2",
+    "subject_type": "Entity",
+    "predicate": "ASSIGNED",
+    "object": "EMEA",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Company_2",
+    "subject_type": "Entity",
+    "predicate": "DELETED",
+    "object": "Finance",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_18",
+    "subject_type": "Entity",
+    "predicate": "BELONGS_TO",
+    "object": "Technical",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_18",
+    "subject_type": "Entity",
+    "predicate": "BELONGS_TO",
+    "object": "Approved",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_18",
+    "subject_type": "Entity",
+    "predicate": "BELONGS_TO",
+    "object": "Issue_20",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_18",
+    "subject_type": "Entity",
+    "predicate": "OCCURRED_AT",
+    "object": "Under_Review",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_18",
+    "subject_type": "Entity",
+    "predicate": "OCCURRED_AT",
+    "object": "InnovateX",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_18",
+    "subject_type": "Entity",
+    "predicate": "MODIFIED",
+    "object": "Trend_13",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_18",
+    "subject_type": "Entity",
+    "predicate": "MODIFIED",
+    "object": "Draft",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_18",
+    "subject_type": "Entity",
+    "predicate": "MONITORED_BY",
+    "object": "Retail",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_18",
+    "subject_type": "Entity",
+    "predicate": "MANAGES",
+    "object": "Closed",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_18",
+    "subject_type": "Entity",
+    "predicate": "APPROVED",
+    "object": "Technical",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_18",
+    "subject_type": "Entity",
+    "predicate": "APPROVED",
+    "object": "Exsight",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_18",
+    "subject_type": "Entity",
+    "predicate": "REPORTS_TO",
+    "object": "Metric_26",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_18",
+    "subject_type": "Entity",
+    "predicate": "REPORTS_TO",
+    "object": "Metric_1",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_18",
+    "subject_type": "Entity",
+    "predicate": "RELATED_TO",
+    "object": "Retail",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_7",
+    "subject_type": "Entity",
+    "predicate": "BELONGS_TO",
+    "object": "Metric_6",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_7",
+    "subject_type": "Entity",
+    "predicate": "REVIEWED",
+    "object": "Open",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_7",
+    "subject_type": "Entity",
+    "predicate": "OCCURRED_AT",
+    "object": "Trend_39",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_7",
+    "subject_type": "Entity",
+    "predicate": "ASSOCIATED_WITH",
+    "object": "Finance",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_7",
+    "subject_type": "Entity",
+    "predicate": "LINKED_TO",
+    "object": "InnovateX",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_7",
+    "subject_type": "Entity",
+    "predicate": "LINKED_TO",
+    "object": "Approved",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_7",
+    "subject_type": "Entity",
+    "predicate": "ESCALATED",
+    "object": "Under_Review",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_7",
+    "subject_type": "Entity",
+    "predicate": "WORKS_FOR",
+    "object": "US",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_7",
+    "subject_type": "Entity",
+    "predicate": "RELATED_TO",
+    "object": "Under_Review",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_7",
+    "subject_type": "Entity",
+    "predicate": "RELATED_TO",
+    "object": "InnovateX",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_7",
+    "subject_type": "Entity",
+    "predicate": "RESOLVED",
+    "object": "Trend_48",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Project_22",
+    "subject_type": "Entity",
+    "predicate": "OBSERVED_IN",
+    "object": "Finance",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Project_22",
+    "subject_type": "Entity",
+    "predicate": "OBSERVED_IN",
+    "object": "India",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Project_22",
+    "subject_type": "Entity",
+    "predicate": "BELONGS_TO",
+    "object": "Finance",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Project_22",
+    "subject_type": "Entity",
+    "predicate": "CONNECTED_TO",
+    "object": "Metric_27",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Project_22",
+    "subject_type": "Entity",
+    "predicate": "ASSOCIATED_WITH",
+    "object": "Trend_14",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Project_22",
+    "subject_type": "Entity",
+    "predicate": "ASSOCIATED_WITH",
+    "object": "Metric_26",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Project_22",
+    "subject_type": "Entity",
+    "predicate": "ESCALATED",
+    "object": "Idea_19",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Project_22",
+    "subject_type": "Entity",
+    "predicate": "ESCALATED",
+    "object": "Trend_48",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Project_22",
+    "subject_type": "Entity",
+    "predicate": "CREATED",
+    "object": "Manufacturing",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "System_20",
+    "subject_type": "Entity",
+    "predicate": "RAISED",
+    "object": "US",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "System_20",
+    "subject_type": "Entity",
+    "predicate": "RAISED",
+    "object": "Metric_6",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "System_20",
+    "subject_type": "Entity",
+    "predicate": "BELONGS_TO",
+    "object": "Metric_29",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "System_20",
+    "subject_type": "Entity",
+    "predicate": "CONNECTED_TO",
+    "object": "Under_Review",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "System_20",
+    "subject_type": "Entity",
+    "predicate": "ASSOCIATED_WITH",
+    "object": "Technical",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "System_20",
+    "subject_type": "Entity",
+    "predicate": "LINKED_TO",
+    "object": "Idea_16",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "System_20",
+    "subject_type": "Entity",
+    "predicate": "MONITORED_BY",
+    "object": "Under_Review",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "System_20",
+    "subject_type": "Entity",
+    "predicate": "MANAGES",
+    "object": "EMEA",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "System_20",
+    "subject_type": "Entity",
+    "predicate": "APPROVED",
+    "object": "Idea_31",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "System_20",
+    "subject_type": "Entity",
+    "predicate": "ESCALATED",
+    "object": "Retail",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "System_20",
+    "subject_type": "Entity",
+    "predicate": "CREATED",
+    "object": "Technical",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "System_20",
+    "subject_type": "Entity",
+    "predicate": "ASSIGNED",
+    "object": "Finance",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_5",
+    "subject_type": "Entity",
+    "predicate": "OBSERVED_IN",
+    "object": "Idea_24",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_5",
+    "subject_type": "Entity",
+    "predicate": "COLLABORATES_WITH",
+    "object": "EMEA",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_5",
+    "subject_type": "Entity",
+    "predicate": "MODIFIED",
+    "object": "Metric_10",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_5",
+    "subject_type": "Entity",
+    "predicate": "CONNECTED_TO",
+    "object": "InnovateX",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_5",
+    "subject_type": "Entity",
+    "predicate": "MANAGES",
+    "object": "EMEA",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_5",
+    "subject_type": "Entity",
+    "predicate": "ASSIGNED",
+    "object": "Global",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_5",
+    "subject_type": "Entity",
+    "predicate": "ASSIGNED",
+    "object": "US",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_5",
+    "subject_type": "Entity",
+    "predicate": "RESOLVED",
+    "object": "Trend_23",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_25",
+    "subject_type": "Entity",
+    "predicate": "ANALYZED",
+    "object": "InsightUX",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_25",
+    "subject_type": "Entity",
+    "predicate": "REVIEWED",
+    "object": "Retail",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_25",
+    "subject_type": "Entity",
+    "predicate": "ASSOCIATED_WITH",
+    "object": "Technical",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_25",
+    "subject_type": "Entity",
+    "predicate": "MONITORED_BY",
+    "object": "Metric_17",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Contributor_25",
+    "subject_type": "Entity",
+    "predicate": "RELATED_TO",
+    "object": "Under_Review",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "System_17",
+    "subject_type": "Entity",
+    "predicate": "RAISED",
+    "object": "EMEA",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "System_17",
+    "subject_type": "Entity",
+    "predicate": "OBSERVED_IN",
+    "object": "Technical",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "System_17",
+    "subject_type": "Entity",
+    "predicate": "OBSERVED_IN",
+    "object": "Draft",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "System_17",
+    "subject_type": "Entity",
+    "predicate": "OCCURRED_AT",
+    "object": "Trend_40",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "System_17",
+    "subject_type": "Entity",
+    "predicate": "MODIFIED",
+    "object": "Issue_19",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "System_17",
+    "subject_type": "Entity",
+    "predicate": "ASSOCIATED_WITH",
+    "object": "Idea_8",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "System_17",
+    "subject_type": "Entity",
+    "predicate": "LINKED_TO",
+    "object": "Trend_13",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "System_17",
+    "subject_type": "Entity",
+    "predicate": "LINKED_TO",
+    "object": "Idea_36",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "System_17",
+    "subject_type": "Entity",
+    "predicate": "LINKED_TO",
+    "object": "Issue_68",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "System_17",
+    "subject_type": "Entity",
+    "predicate": "MANAGES",
+    "object": "Metric_7",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "System_17",
+    "subject_type": "Entity",
+    "predicate": "REPORTS_TO",
+    "object": "Idea_11",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "System_17",
+    "subject_type": "Entity",
+    "predicate": "DELETED",
+    "object": "Issue_74",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Project_3",
+    "subject_type": "Entity",
+    "predicate": "REVIEWED",
+    "object": "Trend_30",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Project_3",
+    "subject_type": "Entity",
+    "predicate": "ASSOCIATED_WITH",
+    "object": "Trend_6",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Project_3",
+    "subject_type": "Entity",
+    "predicate": "MANAGES",
+    "object": "Metric_22",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Project_3",
+    "subject_type": "Entity",
+    "predicate": "APPROVED",
+    "object": "Trend_5",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Project_3",
+    "subject_type": "Entity",
+    "predicate": "CREATED",
+    "object": "Finance",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Project_3",
+    "subject_type": "Entity",
+    "predicate": "ASSIGNED",
+    "object": "Trend_33",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Project_3",
+    "subject_type": "Entity",
+    "predicate": "RESOLVED",
+    "object": "Manufacturing",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "User_31",
+    "subject_type": "Entity",
+    "predicate": "OCCURRED_AT",
+    "object": "Idea_20",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "User_31",
+    "subject_type": "Entity",
+    "predicate": "MONITORED_BY",
+    "object": "Issue_12",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "User_31",
+    "subject_type": "Entity",
+    "predicate": "REPORTS_TO",
+    "object": "Issue_21",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "User_31",
+    "subject_type": "Entity",
+    "predicate": "ASSIGNED",
+    "object": "Idea_6",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "User_31",
+    "subject_type": "Entity",
+    "predicate": "RESOLVED",
+    "object": "Issue_66",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "Analyst_21",
+    "subject_type": "Entity",
+    "predicate": "OBSERVED_IN",
+    "object": "Exsight",
+    "object_type": "['Entity']",
+    "source": "knowledge_graph"
+  },
+  {
+    "subject": "User_001",
+    "subject_type": "User",
+    "predicate": "RAISED",
+    "object": "Issue_001",
+    "object_type": "Issue",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_002",
+    "subject_type": "User",
+    "predicate": "RAISED",
+    "object": "Issue_002",
+    "object_type": "Issue",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_003",
+    "subject_type": "User",
+    "predicate": "RAISED",
+    "object": "Issue_003",
+    "object_type": "Issue",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_004",
+    "subject_type": "User",
+    "predicate": "RAISED",
+    "object": "Issue_004",
+    "object_type": "Issue",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_005",
+    "subject_type": "User",
+    "predicate": "RAISED",
+    "object": "Issue_005",
+    "object_type": "Issue",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_006",
+    "subject_type": "User",
+    "predicate": "RAISED",
+    "object": "Issue_006",
+    "object_type": "Issue",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_007",
+    "subject_type": "User",
+    "predicate": "RAISED",
+    "object": "Issue_007",
+    "object_type": "Issue",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_008",
+    "subject_type": "User",
+    "predicate": "RAISED",
+    "object": "Issue_008",
+    "object_type": "Issue",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_009",
+    "subject_type": "User",
+    "predicate": "RAISED",
+    "object": "Issue_009",
+    "object_type": "Issue",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_010",
+    "subject_type": "User",
+    "predicate": "RAISED",
+    "object": "Issue_010",
+    "object_type": "Issue",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_011",
+    "subject_type": "User",
+    "predicate": "RAISED",
+    "object": "Issue_011",
+    "object_type": "Issue",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_012",
+    "subject_type": "User",
+    "predicate": "RAISED",
+    "object": "Issue_012",
+    "object_type": "Issue",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_013",
+    "subject_type": "User",
+    "predicate": "RAISED",
+    "object": "Issue_013",
+    "object_type": "Issue",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_014",
+    "subject_type": "User",
+    "predicate": "RAISED",
+    "object": "Issue_014",
+    "object_type": "Issue",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_015",
+    "subject_type": "User",
+    "predicate": "RAISED",
+    "object": "Issue_015",
+    "object_type": "Issue",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_016",
+    "subject_type": "User",
+    "predicate": "RAISED",
+    "object": "Issue_016",
+    "object_type": "Issue",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_017",
+    "subject_type": "User",
+    "predicate": "RAISED",
+    "object": "Issue_017",
+    "object_type": "Issue",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_018",
+    "subject_type": "User",
+    "predicate": "RAISED",
+    "object": "Issue_018",
+    "object_type": "Issue",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_019",
+    "subject_type": "User",
+    "predicate": "RAISED",
+    "object": "Issue_019",
+    "object_type": "Issue",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_020",
+    "subject_type": "User",
+    "predicate": "RAISED",
+    "object": "Issue_020",
+    "object_type": "Issue",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_021",
+    "subject_type": "User",
+    "predicate": "RAISED",
+    "object": "Issue_021",
+    "object_type": "Issue",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_022",
+    "subject_type": "User",
+    "predicate": "RAISED",
+    "object": "Issue_022",
+    "object_type": "Issue",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_023",
+    "subject_type": "User",
+    "predicate": "RAISED",
+    "object": "Issue_023",
+    "object_type": "Issue",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_024",
+    "subject_type": "User",
+    "predicate": "RAISED",
+    "object": "Issue_024",
+    "object_type": "Issue",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_025",
+    "subject_type": "User",
+    "predicate": "RAISED",
+    "object": "Issue_025",
+    "object_type": "Issue",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_026",
+    "subject_type": "User",
+    "predicate": "RAISED",
+    "object": "Issue_026",
+    "object_type": "Issue",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_027",
+    "subject_type": "User",
+    "predicate": "RAISED",
+    "object": "Issue_027",
+    "object_type": "Issue",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_028",
+    "subject_type": "User",
+    "predicate": "RAISED",
+    "object": "Issue_028",
+    "object_type": "Issue",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_029",
+    "subject_type": "User",
+    "predicate": "RAISED",
+    "object": "Issue_029",
+    "object_type": "Issue",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_030",
+    "subject_type": "User",
+    "predicate": "RAISED",
+    "object": "Issue_030",
+    "object_type": "Issue",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_031",
+    "subject_type": "User",
+    "predicate": "RAISED",
+    "object": "Issue_031",
+    "object_type": "Issue",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_001",
+    "subject_type": "User",
+    "predicate": "PROPOSED",
+    "object": "Idea_001",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_002",
+    "subject_type": "User",
+    "predicate": "PROPOSED",
+    "object": "Idea_002",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_003",
+    "subject_type": "User",
+    "predicate": "PROPOSED",
+    "object": "Idea_003",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_004",
+    "subject_type": "User",
+    "predicate": "PROPOSED",
+    "object": "Idea_004",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_005",
+    "subject_type": "User",
+    "predicate": "PROPOSED",
+    "object": "Idea_005",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_006",
+    "subject_type": "User",
+    "predicate": "PROPOSED",
+    "object": "Idea_006",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_007",
+    "subject_type": "User",
+    "predicate": "PROPOSED",
+    "object": "Idea_007",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_008",
+    "subject_type": "User",
+    "predicate": "PROPOSED",
+    "object": "Idea_008",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_009",
+    "subject_type": "User",
+    "predicate": "PROPOSED",
+    "object": "Idea_009",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_010",
+    "subject_type": "User",
+    "predicate": "PROPOSED",
+    "object": "Idea_010",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_011",
+    "subject_type": "User",
+    "predicate": "PROPOSED",
+    "object": "Idea_011",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_012",
+    "subject_type": "User",
+    "predicate": "PROPOSED",
+    "object": "Idea_012",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_013",
+    "subject_type": "User",
+    "predicate": "PROPOSED",
+    "object": "Idea_013",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_014",
+    "subject_type": "User",
+    "predicate": "PROPOSED",
+    "object": "Idea_014",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_015",
+    "subject_type": "User",
+    "predicate": "PROPOSED",
+    "object": "Idea_015",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_016",
+    "subject_type": "User",
+    "predicate": "PROPOSED",
+    "object": "Idea_016",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_017",
+    "subject_type": "User",
+    "predicate": "PROPOSED",
+    "object": "Idea_017",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_018",
+    "subject_type": "User",
+    "predicate": "PROPOSED",
+    "object": "Idea_018",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_019",
+    "subject_type": "User",
+    "predicate": "PROPOSED",
+    "object": "Idea_019",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_020",
+    "subject_type": "User",
+    "predicate": "PROPOSED",
+    "object": "Idea_020",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_021",
+    "subject_type": "User",
+    "predicate": "PROPOSED",
+    "object": "Idea_021",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_022",
+    "subject_type": "User",
+    "predicate": "PROPOSED",
+    "object": "Idea_022",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_023",
+    "subject_type": "User",
+    "predicate": "PROPOSED",
+    "object": "Idea_023",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_024",
+    "subject_type": "User",
+    "predicate": "PROPOSED",
+    "object": "Idea_024",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_025",
+    "subject_type": "User",
+    "predicate": "PROPOSED",
+    "object": "Idea_025",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_026",
+    "subject_type": "User",
+    "predicate": "PROPOSED",
+    "object": "Idea_026",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_027",
+    "subject_type": "User",
+    "predicate": "PROPOSED",
+    "object": "Idea_027",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_028",
+    "subject_type": "User",
+    "predicate": "PROPOSED",
+    "object": "Idea_028",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_029",
+    "subject_type": "User",
+    "predicate": "PROPOSED",
+    "object": "Idea_029",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_030",
+    "subject_type": "User",
+    "predicate": "PROPOSED",
+    "object": "Idea_030",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_031",
+    "subject_type": "User",
+    "predicate": "PROPOSED",
+    "object": "Idea_031",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_001",
+    "subject_type": "User",
+    "predicate": "USES",
+    "object": "Platform_001",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_002",
+    "subject_type": "User",
+    "predicate": "USES",
+    "object": "Platform_002",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_003",
+    "subject_type": "User",
+    "predicate": "USES",
+    "object": "Platform_003",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_004",
+    "subject_type": "User",
+    "predicate": "USES",
+    "object": "Platform_004",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_005",
+    "subject_type": "User",
+    "predicate": "USES",
+    "object": "Platform_005",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_006",
+    "subject_type": "User",
+    "predicate": "USES",
+    "object": "Platform_006",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_007",
+    "subject_type": "User",
+    "predicate": "USES",
+    "object": "Platform_007",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_008",
+    "subject_type": "User",
+    "predicate": "USES",
+    "object": "Platform_008",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_009",
+    "subject_type": "User",
+    "predicate": "USES",
+    "object": "Platform_009",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_010",
+    "subject_type": "User",
+    "predicate": "USES",
+    "object": "Platform_010",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_011",
+    "subject_type": "User",
+    "predicate": "USES",
+    "object": "Platform_011",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_012",
+    "subject_type": "User",
+    "predicate": "USES",
+    "object": "Platform_012",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_013",
+    "subject_type": "User",
+    "predicate": "USES",
+    "object": "Platform_013",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_014",
+    "subject_type": "User",
+    "predicate": "USES",
+    "object": "Platform_014",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_015",
+    "subject_type": "User",
+    "predicate": "USES",
+    "object": "Platform_015",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_016",
+    "subject_type": "User",
+    "predicate": "USES",
+    "object": "Platform_016",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_017",
+    "subject_type": "User",
+    "predicate": "USES",
+    "object": "Platform_017",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_018",
+    "subject_type": "User",
+    "predicate": "USES",
+    "object": "Platform_018",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_019",
+    "subject_type": "User",
+    "predicate": "USES",
+    "object": "Platform_019",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_020",
+    "subject_type": "User",
+    "predicate": "USES",
+    "object": "Platform_020",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_021",
+    "subject_type": "User",
+    "predicate": "USES",
+    "object": "Platform_021",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_022",
+    "subject_type": "User",
+    "predicate": "USES",
+    "object": "Platform_022",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_023",
+    "subject_type": "User",
+    "predicate": "USES",
+    "object": "Platform_023",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_024",
+    "subject_type": "User",
+    "predicate": "USES",
+    "object": "Platform_024",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_025",
+    "subject_type": "User",
+    "predicate": "USES",
+    "object": "Platform_025",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_026",
+    "subject_type": "User",
+    "predicate": "USES",
+    "object": "Platform_026",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_027",
+    "subject_type": "User",
+    "predicate": "USES",
+    "object": "Platform_027",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_028",
+    "subject_type": "User",
+    "predicate": "USES",
+    "object": "Platform_028",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_029",
+    "subject_type": "User",
+    "predicate": "USES",
+    "object": "Platform_029",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_030",
+    "subject_type": "User",
+    "predicate": "USES",
+    "object": "Platform_030",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_031",
+    "subject_type": "User",
+    "predicate": "USES",
+    "object": "Platform_031",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_001",
+    "subject_type": "User",
+    "predicate": "WORKS_IN",
+    "object": "Domain_001",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_002",
+    "subject_type": "User",
+    "predicate": "WORKS_IN",
+    "object": "Domain_002",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_003",
+    "subject_type": "User",
+    "predicate": "WORKS_IN",
+    "object": "Domain_003",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_004",
+    "subject_type": "User",
+    "predicate": "WORKS_IN",
+    "object": "Domain_004",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_005",
+    "subject_type": "User",
+    "predicate": "WORKS_IN",
+    "object": "Domain_005",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_006",
+    "subject_type": "User",
+    "predicate": "WORKS_IN",
+    "object": "Domain_006",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_007",
+    "subject_type": "User",
+    "predicate": "WORKS_IN",
+    "object": "Domain_007",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_008",
+    "subject_type": "User",
+    "predicate": "WORKS_IN",
+    "object": "Domain_008",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_009",
+    "subject_type": "User",
+    "predicate": "WORKS_IN",
+    "object": "Domain_009",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_010",
+    "subject_type": "User",
+    "predicate": "WORKS_IN",
+    "object": "Domain_010",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_011",
+    "subject_type": "User",
+    "predicate": "WORKS_IN",
+    "object": "Domain_011",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_012",
+    "subject_type": "User",
+    "predicate": "WORKS_IN",
+    "object": "Domain_012",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_013",
+    "subject_type": "User",
+    "predicate": "WORKS_IN",
+    "object": "Domain_013",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_014",
+    "subject_type": "User",
+    "predicate": "WORKS_IN",
+    "object": "Domain_014",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_015",
+    "subject_type": "User",
+    "predicate": "WORKS_IN",
+    "object": "Domain_015",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_016",
+    "subject_type": "User",
+    "predicate": "WORKS_IN",
+    "object": "Domain_016",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_017",
+    "subject_type": "User",
+    "predicate": "WORKS_IN",
+    "object": "Domain_017",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_018",
+    "subject_type": "User",
+    "predicate": "WORKS_IN",
+    "object": "Domain_018",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_019",
+    "subject_type": "User",
+    "predicate": "WORKS_IN",
+    "object": "Domain_019",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_020",
+    "subject_type": "User",
+    "predicate": "WORKS_IN",
+    "object": "Domain_020",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_021",
+    "subject_type": "User",
+    "predicate": "WORKS_IN",
+    "object": "Domain_021",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_022",
+    "subject_type": "User",
+    "predicate": "WORKS_IN",
+    "object": "Domain_022",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_023",
+    "subject_type": "User",
+    "predicate": "WORKS_IN",
+    "object": "Domain_023",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_024",
+    "subject_type": "User",
+    "predicate": "WORKS_IN",
+    "object": "Domain_024",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_025",
+    "subject_type": "User",
+    "predicate": "WORKS_IN",
+    "object": "Domain_025",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_026",
+    "subject_type": "User",
+    "predicate": "WORKS_IN",
+    "object": "Domain_026",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_027",
+    "subject_type": "User",
+    "predicate": "WORKS_IN",
+    "object": "Domain_027",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_028",
+    "subject_type": "User",
+    "predicate": "WORKS_IN",
+    "object": "Domain_028",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_029",
+    "subject_type": "User",
+    "predicate": "WORKS_IN",
+    "object": "Domain_029",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_030",
+    "subject_type": "User",
+    "predicate": "WORKS_IN",
+    "object": "Domain_030",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "User_031",
+    "subject_type": "User",
+    "predicate": "WORKS_IN",
+    "object": "Domain_031",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_001",
+    "subject_type": "Analyst",
+    "predicate": "AUTHORED",
+    "object": "Trend_001",
+    "object_type": "Trend",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_002",
+    "subject_type": "Analyst",
+    "predicate": "AUTHORED",
+    "object": "Trend_002",
+    "object_type": "Trend",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_003",
+    "subject_type": "Analyst",
+    "predicate": "AUTHORED",
+    "object": "Trend_003",
+    "object_type": "Trend",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_004",
+    "subject_type": "Analyst",
+    "predicate": "AUTHORED",
+    "object": "Trend_004",
+    "object_type": "Trend",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_005",
+    "subject_type": "Analyst",
+    "predicate": "AUTHORED",
+    "object": "Trend_005",
+    "object_type": "Trend",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_006",
+    "subject_type": "Analyst",
+    "predicate": "AUTHORED",
+    "object": "Trend_006",
+    "object_type": "Trend",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_007",
+    "subject_type": "Analyst",
+    "predicate": "AUTHORED",
+    "object": "Trend_007",
+    "object_type": "Trend",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_008",
+    "subject_type": "Analyst",
+    "predicate": "AUTHORED",
+    "object": "Trend_008",
+    "object_type": "Trend",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_009",
+    "subject_type": "Analyst",
+    "predicate": "AUTHORED",
+    "object": "Trend_009",
+    "object_type": "Trend",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_010",
+    "subject_type": "Analyst",
+    "predicate": "AUTHORED",
+    "object": "Trend_010",
+    "object_type": "Trend",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_011",
+    "subject_type": "Analyst",
+    "predicate": "AUTHORED",
+    "object": "Trend_011",
+    "object_type": "Trend",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_012",
+    "subject_type": "Analyst",
+    "predicate": "AUTHORED",
+    "object": "Trend_012",
+    "object_type": "Trend",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_013",
+    "subject_type": "Analyst",
+    "predicate": "AUTHORED",
+    "object": "Trend_013",
+    "object_type": "Trend",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_014",
+    "subject_type": "Analyst",
+    "predicate": "AUTHORED",
+    "object": "Trend_014",
+    "object_type": "Trend",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_015",
+    "subject_type": "Analyst",
+    "predicate": "AUTHORED",
+    "object": "Trend_015",
+    "object_type": "Trend",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_016",
+    "subject_type": "Analyst",
+    "predicate": "AUTHORED",
+    "object": "Trend_016",
+    "object_type": "Trend",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_017",
+    "subject_type": "Analyst",
+    "predicate": "AUTHORED",
+    "object": "Trend_017",
+    "object_type": "Trend",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_018",
+    "subject_type": "Analyst",
+    "predicate": "AUTHORED",
+    "object": "Trend_018",
+    "object_type": "Trend",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_019",
+    "subject_type": "Analyst",
+    "predicate": "AUTHORED",
+    "object": "Trend_019",
+    "object_type": "Trend",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_020",
+    "subject_type": "Analyst",
+    "predicate": "AUTHORED",
+    "object": "Trend_020",
+    "object_type": "Trend",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_021",
+    "subject_type": "Analyst",
+    "predicate": "AUTHORED",
+    "object": "Trend_021",
+    "object_type": "Trend",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_022",
+    "subject_type": "Analyst",
+    "predicate": "AUTHORED",
+    "object": "Trend_022",
+    "object_type": "Trend",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_023",
+    "subject_type": "Analyst",
+    "predicate": "AUTHORED",
+    "object": "Trend_023",
+    "object_type": "Trend",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_024",
+    "subject_type": "Analyst",
+    "predicate": "AUTHORED",
+    "object": "Trend_024",
+    "object_type": "Trend",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_025",
+    "subject_type": "Analyst",
+    "predicate": "AUTHORED",
+    "object": "Trend_025",
+    "object_type": "Trend",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_026",
+    "subject_type": "Analyst",
+    "predicate": "AUTHORED",
+    "object": "Trend_026",
+    "object_type": "Trend",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_027",
+    "subject_type": "Analyst",
+    "predicate": "AUTHORED",
+    "object": "Trend_027",
+    "object_type": "Trend",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_028",
+    "subject_type": "Analyst",
+    "predicate": "AUTHORED",
+    "object": "Trend_028",
+    "object_type": "Trend",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_029",
+    "subject_type": "Analyst",
+    "predicate": "AUTHORED",
+    "object": "Trend_029",
+    "object_type": "Trend",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_030",
+    "subject_type": "Analyst",
+    "predicate": "AUTHORED",
+    "object": "Trend_030",
+    "object_type": "Trend",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_031",
+    "subject_type": "Analyst",
+    "predicate": "AUTHORED",
+    "object": "Trend_031",
+    "object_type": "Trend",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_001",
+    "subject_type": "Analyst",
+    "predicate": "CREATED",
+    "object": "Report_001",
+    "object_type": "Report",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_002",
+    "subject_type": "Analyst",
+    "predicate": "CREATED",
+    "object": "Report_002",
+    "object_type": "Report",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_003",
+    "subject_type": "Analyst",
+    "predicate": "CREATED",
+    "object": "Report_003",
+    "object_type": "Report",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_004",
+    "subject_type": "Analyst",
+    "predicate": "CREATED",
+    "object": "Report_004",
+    "object_type": "Report",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_005",
+    "subject_type": "Analyst",
+    "predicate": "CREATED",
+    "object": "Report_005",
+    "object_type": "Report",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_006",
+    "subject_type": "Analyst",
+    "predicate": "CREATED",
+    "object": "Report_006",
+    "object_type": "Report",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_007",
+    "subject_type": "Analyst",
+    "predicate": "CREATED",
+    "object": "Report_007",
+    "object_type": "Report",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_008",
+    "subject_type": "Analyst",
+    "predicate": "CREATED",
+    "object": "Report_008",
+    "object_type": "Report",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_009",
+    "subject_type": "Analyst",
+    "predicate": "CREATED",
+    "object": "Report_009",
+    "object_type": "Report",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_010",
+    "subject_type": "Analyst",
+    "predicate": "CREATED",
+    "object": "Report_010",
+    "object_type": "Report",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_011",
+    "subject_type": "Analyst",
+    "predicate": "CREATED",
+    "object": "Report_011",
+    "object_type": "Report",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_012",
+    "subject_type": "Analyst",
+    "predicate": "CREATED",
+    "object": "Report_012",
+    "object_type": "Report",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_013",
+    "subject_type": "Analyst",
+    "predicate": "CREATED",
+    "object": "Report_013",
+    "object_type": "Report",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_014",
+    "subject_type": "Analyst",
+    "predicate": "CREATED",
+    "object": "Report_014",
+    "object_type": "Report",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_015",
+    "subject_type": "Analyst",
+    "predicate": "CREATED",
+    "object": "Report_015",
+    "object_type": "Report",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_016",
+    "subject_type": "Analyst",
+    "predicate": "CREATED",
+    "object": "Report_016",
+    "object_type": "Report",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_017",
+    "subject_type": "Analyst",
+    "predicate": "CREATED",
+    "object": "Report_017",
+    "object_type": "Report",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_018",
+    "subject_type": "Analyst",
+    "predicate": "CREATED",
+    "object": "Report_018",
+    "object_type": "Report",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_019",
+    "subject_type": "Analyst",
+    "predicate": "CREATED",
+    "object": "Report_019",
+    "object_type": "Report",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_020",
+    "subject_type": "Analyst",
+    "predicate": "CREATED",
+    "object": "Report_020",
+    "object_type": "Report",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_021",
+    "subject_type": "Analyst",
+    "predicate": "CREATED",
+    "object": "Report_021",
+    "object_type": "Report",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_022",
+    "subject_type": "Analyst",
+    "predicate": "CREATED",
+    "object": "Report_022",
+    "object_type": "Report",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_023",
+    "subject_type": "Analyst",
+    "predicate": "CREATED",
+    "object": "Report_023",
+    "object_type": "Report",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_024",
+    "subject_type": "Analyst",
+    "predicate": "CREATED",
+    "object": "Report_024",
+    "object_type": "Report",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_025",
+    "subject_type": "Analyst",
+    "predicate": "CREATED",
+    "object": "Report_025",
+    "object_type": "Report",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_026",
+    "subject_type": "Analyst",
+    "predicate": "CREATED",
+    "object": "Report_026",
+    "object_type": "Report",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_027",
+    "subject_type": "Analyst",
+    "predicate": "CREATED",
+    "object": "Report_027",
+    "object_type": "Report",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_028",
+    "subject_type": "Analyst",
+    "predicate": "CREATED",
+    "object": "Report_028",
+    "object_type": "Report",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_029",
+    "subject_type": "Analyst",
+    "predicate": "CREATED",
+    "object": "Report_029",
+    "object_type": "Report",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_030",
+    "subject_type": "Analyst",
+    "predicate": "CREATED",
+    "object": "Report_030",
+    "object_type": "Report",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_031",
+    "subject_type": "Analyst",
+    "predicate": "CREATED",
+    "object": "Report_031",
+    "object_type": "Report",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_001",
+    "subject_type": "Analyst",
+    "predicate": "ANALYZES",
+    "object": "Domain_001",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_002",
+    "subject_type": "Analyst",
+    "predicate": "ANALYZES",
+    "object": "Domain_002",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_003",
+    "subject_type": "Analyst",
+    "predicate": "ANALYZES",
+    "object": "Domain_003",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_004",
+    "subject_type": "Analyst",
+    "predicate": "ANALYZES",
+    "object": "Domain_004",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_005",
+    "subject_type": "Analyst",
+    "predicate": "ANALYZES",
+    "object": "Domain_005",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_006",
+    "subject_type": "Analyst",
+    "predicate": "ANALYZES",
+    "object": "Domain_006",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_007",
+    "subject_type": "Analyst",
+    "predicate": "ANALYZES",
+    "object": "Domain_007",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_008",
+    "subject_type": "Analyst",
+    "predicate": "ANALYZES",
+    "object": "Domain_008",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_009",
+    "subject_type": "Analyst",
+    "predicate": "ANALYZES",
+    "object": "Domain_009",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_010",
+    "subject_type": "Analyst",
+    "predicate": "ANALYZES",
+    "object": "Domain_010",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_011",
+    "subject_type": "Analyst",
+    "predicate": "ANALYZES",
+    "object": "Domain_011",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_012",
+    "subject_type": "Analyst",
+    "predicate": "ANALYZES",
+    "object": "Domain_012",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_013",
+    "subject_type": "Analyst",
+    "predicate": "ANALYZES",
+    "object": "Domain_013",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_014",
+    "subject_type": "Analyst",
+    "predicate": "ANALYZES",
+    "object": "Domain_014",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_015",
+    "subject_type": "Analyst",
+    "predicate": "ANALYZES",
+    "object": "Domain_015",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_016",
+    "subject_type": "Analyst",
+    "predicate": "ANALYZES",
+    "object": "Domain_016",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_017",
+    "subject_type": "Analyst",
+    "predicate": "ANALYZES",
+    "object": "Domain_017",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_018",
+    "subject_type": "Analyst",
+    "predicate": "ANALYZES",
+    "object": "Domain_018",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_019",
+    "subject_type": "Analyst",
+    "predicate": "ANALYZES",
+    "object": "Domain_019",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_020",
+    "subject_type": "Analyst",
+    "predicate": "ANALYZES",
+    "object": "Domain_020",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_021",
+    "subject_type": "Analyst",
+    "predicate": "ANALYZES",
+    "object": "Domain_021",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_022",
+    "subject_type": "Analyst",
+    "predicate": "ANALYZES",
+    "object": "Domain_022",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_023",
+    "subject_type": "Analyst",
+    "predicate": "ANALYZES",
+    "object": "Domain_023",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_024",
+    "subject_type": "Analyst",
+    "predicate": "ANALYZES",
+    "object": "Domain_024",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_025",
+    "subject_type": "Analyst",
+    "predicate": "ANALYZES",
+    "object": "Domain_025",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_026",
+    "subject_type": "Analyst",
+    "predicate": "ANALYZES",
+    "object": "Domain_026",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_027",
+    "subject_type": "Analyst",
+    "predicate": "ANALYZES",
+    "object": "Domain_027",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_028",
+    "subject_type": "Analyst",
+    "predicate": "ANALYZES",
+    "object": "Domain_028",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_029",
+    "subject_type": "Analyst",
+    "predicate": "ANALYZES",
+    "object": "Domain_029",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_030",
+    "subject_type": "Analyst",
+    "predicate": "ANALYZES",
+    "object": "Domain_030",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_031",
+    "subject_type": "Analyst",
+    "predicate": "ANALYZES",
+    "object": "Domain_031",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_001",
+    "subject_type": "Analyst",
+    "predicate": "COVERS",
+    "object": "Region_001",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_002",
+    "subject_type": "Analyst",
+    "predicate": "COVERS",
+    "object": "Region_002",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_003",
+    "subject_type": "Analyst",
+    "predicate": "COVERS",
+    "object": "Region_003",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_004",
+    "subject_type": "Analyst",
+    "predicate": "COVERS",
+    "object": "Region_004",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_005",
+    "subject_type": "Analyst",
+    "predicate": "COVERS",
+    "object": "Region_005",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_006",
+    "subject_type": "Analyst",
+    "predicate": "COVERS",
+    "object": "Region_006",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_007",
+    "subject_type": "Analyst",
+    "predicate": "COVERS",
+    "object": "Region_007",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_008",
+    "subject_type": "Analyst",
+    "predicate": "COVERS",
+    "object": "Region_008",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_009",
+    "subject_type": "Analyst",
+    "predicate": "COVERS",
+    "object": "Region_009",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_010",
+    "subject_type": "Analyst",
+    "predicate": "COVERS",
+    "object": "Region_010",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_011",
+    "subject_type": "Analyst",
+    "predicate": "COVERS",
+    "object": "Region_011",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_012",
+    "subject_type": "Analyst",
+    "predicate": "COVERS",
+    "object": "Region_012",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_013",
+    "subject_type": "Analyst",
+    "predicate": "COVERS",
+    "object": "Region_013",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_014",
+    "subject_type": "Analyst",
+    "predicate": "COVERS",
+    "object": "Region_014",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_015",
+    "subject_type": "Analyst",
+    "predicate": "COVERS",
+    "object": "Region_015",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_016",
+    "subject_type": "Analyst",
+    "predicate": "COVERS",
+    "object": "Region_016",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_017",
+    "subject_type": "Analyst",
+    "predicate": "COVERS",
+    "object": "Region_017",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_018",
+    "subject_type": "Analyst",
+    "predicate": "COVERS",
+    "object": "Region_018",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_019",
+    "subject_type": "Analyst",
+    "predicate": "COVERS",
+    "object": "Region_019",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_020",
+    "subject_type": "Analyst",
+    "predicate": "COVERS",
+    "object": "Region_020",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_021",
+    "subject_type": "Analyst",
+    "predicate": "COVERS",
+    "object": "Region_021",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_022",
+    "subject_type": "Analyst",
+    "predicate": "COVERS",
+    "object": "Region_022",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_023",
+    "subject_type": "Analyst",
+    "predicate": "COVERS",
+    "object": "Region_023",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_024",
+    "subject_type": "Analyst",
+    "predicate": "COVERS",
+    "object": "Region_024",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_025",
+    "subject_type": "Analyst",
+    "predicate": "COVERS",
+    "object": "Region_025",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_026",
+    "subject_type": "Analyst",
+    "predicate": "COVERS",
+    "object": "Region_026",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_027",
+    "subject_type": "Analyst",
+    "predicate": "COVERS",
+    "object": "Region_027",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_028",
+    "subject_type": "Analyst",
+    "predicate": "COVERS",
+    "object": "Region_028",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_029",
+    "subject_type": "Analyst",
+    "predicate": "COVERS",
+    "object": "Region_029",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_030",
+    "subject_type": "Analyst",
+    "predicate": "COVERS",
+    "object": "Region_030",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Analyst_031",
+    "subject_type": "Analyst",
+    "predicate": "COVERS",
+    "object": "Region_031",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_001",
+    "subject_type": "Contributor",
+    "predicate": "DEVELOPED",
+    "object": "Idea_001",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_002",
+    "subject_type": "Contributor",
+    "predicate": "DEVELOPED",
+    "object": "Idea_002",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_003",
+    "subject_type": "Contributor",
+    "predicate": "DEVELOPED",
+    "object": "Idea_003",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_004",
+    "subject_type": "Contributor",
+    "predicate": "DEVELOPED",
+    "object": "Idea_004",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_005",
+    "subject_type": "Contributor",
+    "predicate": "DEVELOPED",
+    "object": "Idea_005",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_006",
+    "subject_type": "Contributor",
+    "predicate": "DEVELOPED",
+    "object": "Idea_006",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_007",
+    "subject_type": "Contributor",
+    "predicate": "DEVELOPED",
+    "object": "Idea_007",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_008",
+    "subject_type": "Contributor",
+    "predicate": "DEVELOPED",
+    "object": "Idea_008",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_009",
+    "subject_type": "Contributor",
+    "predicate": "DEVELOPED",
+    "object": "Idea_009",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_010",
+    "subject_type": "Contributor",
+    "predicate": "DEVELOPED",
+    "object": "Idea_010",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_011",
+    "subject_type": "Contributor",
+    "predicate": "DEVELOPED",
+    "object": "Idea_011",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_012",
+    "subject_type": "Contributor",
+    "predicate": "DEVELOPED",
+    "object": "Idea_012",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_013",
+    "subject_type": "Contributor",
+    "predicate": "DEVELOPED",
+    "object": "Idea_013",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_014",
+    "subject_type": "Contributor",
+    "predicate": "DEVELOPED",
+    "object": "Idea_014",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_015",
+    "subject_type": "Contributor",
+    "predicate": "DEVELOPED",
+    "object": "Idea_015",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_016",
+    "subject_type": "Contributor",
+    "predicate": "DEVELOPED",
+    "object": "Idea_016",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_017",
+    "subject_type": "Contributor",
+    "predicate": "DEVELOPED",
+    "object": "Idea_017",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_018",
+    "subject_type": "Contributor",
+    "predicate": "DEVELOPED",
+    "object": "Idea_018",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_019",
+    "subject_type": "Contributor",
+    "predicate": "DEVELOPED",
+    "object": "Idea_019",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_020",
+    "subject_type": "Contributor",
+    "predicate": "DEVELOPED",
+    "object": "Idea_020",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_021",
+    "subject_type": "Contributor",
+    "predicate": "DEVELOPED",
+    "object": "Idea_021",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_022",
+    "subject_type": "Contributor",
+    "predicate": "DEVELOPED",
+    "object": "Idea_022",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_023",
+    "subject_type": "Contributor",
+    "predicate": "DEVELOPED",
+    "object": "Idea_023",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_024",
+    "subject_type": "Contributor",
+    "predicate": "DEVELOPED",
+    "object": "Idea_024",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_025",
+    "subject_type": "Contributor",
+    "predicate": "DEVELOPED",
+    "object": "Idea_025",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_026",
+    "subject_type": "Contributor",
+    "predicate": "DEVELOPED",
+    "object": "Idea_026",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_027",
+    "subject_type": "Contributor",
+    "predicate": "DEVELOPED",
+    "object": "Idea_027",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_028",
+    "subject_type": "Contributor",
+    "predicate": "DEVELOPED",
+    "object": "Idea_028",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_029",
+    "subject_type": "Contributor",
+    "predicate": "DEVELOPED",
+    "object": "Idea_029",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_030",
+    "subject_type": "Contributor",
+    "predicate": "DEVELOPED",
+    "object": "Idea_030",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_031",
+    "subject_type": "Contributor",
+    "predicate": "DEVELOPED",
+    "object": "Idea_031",
+    "object_type": "Idea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_001",
+    "subject_type": "Contributor",
+    "predicate": "LEADS",
+    "object": "Project_001",
+    "object_type": "Project",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_002",
+    "subject_type": "Contributor",
+    "predicate": "LEADS",
+    "object": "Project_002",
+    "object_type": "Project",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_003",
+    "subject_type": "Contributor",
+    "predicate": "LEADS",
+    "object": "Project_003",
+    "object_type": "Project",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_004",
+    "subject_type": "Contributor",
+    "predicate": "LEADS",
+    "object": "Project_004",
+    "object_type": "Project",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_005",
+    "subject_type": "Contributor",
+    "predicate": "LEADS",
+    "object": "Project_005",
+    "object_type": "Project",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_006",
+    "subject_type": "Contributor",
+    "predicate": "LEADS",
+    "object": "Project_006",
+    "object_type": "Project",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_007",
+    "subject_type": "Contributor",
+    "predicate": "LEADS",
+    "object": "Project_007",
+    "object_type": "Project",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_008",
+    "subject_type": "Contributor",
+    "predicate": "LEADS",
+    "object": "Project_008",
+    "object_type": "Project",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_009",
+    "subject_type": "Contributor",
+    "predicate": "LEADS",
+    "object": "Project_009",
+    "object_type": "Project",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_010",
+    "subject_type": "Contributor",
+    "predicate": "LEADS",
+    "object": "Project_010",
+    "object_type": "Project",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_011",
+    "subject_type": "Contributor",
+    "predicate": "LEADS",
+    "object": "Project_011",
+    "object_type": "Project",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_012",
+    "subject_type": "Contributor",
+    "predicate": "LEADS",
+    "object": "Project_012",
+    "object_type": "Project",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_013",
+    "subject_type": "Contributor",
+    "predicate": "LEADS",
+    "object": "Project_013",
+    "object_type": "Project",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_014",
+    "subject_type": "Contributor",
+    "predicate": "LEADS",
+    "object": "Project_014",
+    "object_type": "Project",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_015",
+    "subject_type": "Contributor",
+    "predicate": "LEADS",
+    "object": "Project_015",
+    "object_type": "Project",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_016",
+    "subject_type": "Contributor",
+    "predicate": "LEADS",
+    "object": "Project_016",
+    "object_type": "Project",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_017",
+    "subject_type": "Contributor",
+    "predicate": "LEADS",
+    "object": "Project_017",
+    "object_type": "Project",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_018",
+    "subject_type": "Contributor",
+    "predicate": "LEADS",
+    "object": "Project_018",
+    "object_type": "Project",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_019",
+    "subject_type": "Contributor",
+    "predicate": "LEADS",
+    "object": "Project_019",
+    "object_type": "Project",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_020",
+    "subject_type": "Contributor",
+    "predicate": "LEADS",
+    "object": "Project_020",
+    "object_type": "Project",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_021",
+    "subject_type": "Contributor",
+    "predicate": "LEADS",
+    "object": "Project_021",
+    "object_type": "Project",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_022",
+    "subject_type": "Contributor",
+    "predicate": "LEADS",
+    "object": "Project_022",
+    "object_type": "Project",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_023",
+    "subject_type": "Contributor",
+    "predicate": "LEADS",
+    "object": "Project_023",
+    "object_type": "Project",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_024",
+    "subject_type": "Contributor",
+    "predicate": "LEADS",
+    "object": "Project_024",
+    "object_type": "Project",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_025",
+    "subject_type": "Contributor",
+    "predicate": "LEADS",
+    "object": "Project_025",
+    "object_type": "Project",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_026",
+    "subject_type": "Contributor",
+    "predicate": "LEADS",
+    "object": "Project_026",
+    "object_type": "Project",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_027",
+    "subject_type": "Contributor",
+    "predicate": "LEADS",
+    "object": "Project_027",
+    "object_type": "Project",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_028",
+    "subject_type": "Contributor",
+    "predicate": "LEADS",
+    "object": "Project_028",
+    "object_type": "Project",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_029",
+    "subject_type": "Contributor",
+    "predicate": "LEADS",
+    "object": "Project_029",
+    "object_type": "Project",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_030",
+    "subject_type": "Contributor",
+    "predicate": "LEADS",
+    "object": "Project_030",
+    "object_type": "Project",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_031",
+    "subject_type": "Contributor",
+    "predicate": "LEADS",
+    "object": "Project_031",
+    "object_type": "Project",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_001",
+    "subject_type": "Contributor",
+    "predicate": "IMPROVES",
+    "object": "Platform_001",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_002",
+    "subject_type": "Contributor",
+    "predicate": "IMPROVES",
+    "object": "Platform_002",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_003",
+    "subject_type": "Contributor",
+    "predicate": "IMPROVES",
+    "object": "Platform_003",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_004",
+    "subject_type": "Contributor",
+    "predicate": "IMPROVES",
+    "object": "Platform_004",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_005",
+    "subject_type": "Contributor",
+    "predicate": "IMPROVES",
+    "object": "Platform_005",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_006",
+    "subject_type": "Contributor",
+    "predicate": "IMPROVES",
+    "object": "Platform_006",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_007",
+    "subject_type": "Contributor",
+    "predicate": "IMPROVES",
+    "object": "Platform_007",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_008",
+    "subject_type": "Contributor",
+    "predicate": "IMPROVES",
+    "object": "Platform_008",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_009",
+    "subject_type": "Contributor",
+    "predicate": "IMPROVES",
+    "object": "Platform_009",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_010",
+    "subject_type": "Contributor",
+    "predicate": "IMPROVES",
+    "object": "Platform_010",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_011",
+    "subject_type": "Contributor",
+    "predicate": "IMPROVES",
+    "object": "Platform_011",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_012",
+    "subject_type": "Contributor",
+    "predicate": "IMPROVES",
+    "object": "Platform_012",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_013",
+    "subject_type": "Contributor",
+    "predicate": "IMPROVES",
+    "object": "Platform_013",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_014",
+    "subject_type": "Contributor",
+    "predicate": "IMPROVES",
+    "object": "Platform_014",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_015",
+    "subject_type": "Contributor",
+    "predicate": "IMPROVES",
+    "object": "Platform_015",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_016",
+    "subject_type": "Contributor",
+    "predicate": "IMPROVES",
+    "object": "Platform_016",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_017",
+    "subject_type": "Contributor",
+    "predicate": "IMPROVES",
+    "object": "Platform_017",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_018",
+    "subject_type": "Contributor",
+    "predicate": "IMPROVES",
+    "object": "Platform_018",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_019",
+    "subject_type": "Contributor",
+    "predicate": "IMPROVES",
+    "object": "Platform_019",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_020",
+    "subject_type": "Contributor",
+    "predicate": "IMPROVES",
+    "object": "Platform_020",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_021",
+    "subject_type": "Contributor",
+    "predicate": "IMPROVES",
+    "object": "Platform_021",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_022",
+    "subject_type": "Contributor",
+    "predicate": "IMPROVES",
+    "object": "Platform_022",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_023",
+    "subject_type": "Contributor",
+    "predicate": "IMPROVES",
+    "object": "Platform_023",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_024",
+    "subject_type": "Contributor",
+    "predicate": "IMPROVES",
+    "object": "Platform_024",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_025",
+    "subject_type": "Contributor",
+    "predicate": "IMPROVES",
+    "object": "Platform_025",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_026",
+    "subject_type": "Contributor",
+    "predicate": "IMPROVES",
+    "object": "Platform_026",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_027",
+    "subject_type": "Contributor",
+    "predicate": "IMPROVES",
+    "object": "Platform_027",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_028",
+    "subject_type": "Contributor",
+    "predicate": "IMPROVES",
+    "object": "Platform_028",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_029",
+    "subject_type": "Contributor",
+    "predicate": "IMPROVES",
+    "object": "Platform_029",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_030",
+    "subject_type": "Contributor",
+    "predicate": "IMPROVES",
+    "object": "Platform_030",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_031",
+    "subject_type": "Contributor",
+    "predicate": "IMPROVES",
+    "object": "Platform_031",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_001",
+    "subject_type": "Contributor",
+    "predicate": "TARGETS",
+    "object": "ImpactArea_001",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_002",
+    "subject_type": "Contributor",
+    "predicate": "TARGETS",
+    "object": "ImpactArea_002",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_003",
+    "subject_type": "Contributor",
+    "predicate": "TARGETS",
+    "object": "ImpactArea_003",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_004",
+    "subject_type": "Contributor",
+    "predicate": "TARGETS",
+    "object": "ImpactArea_004",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_005",
+    "subject_type": "Contributor",
+    "predicate": "TARGETS",
+    "object": "ImpactArea_005",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_006",
+    "subject_type": "Contributor",
+    "predicate": "TARGETS",
+    "object": "ImpactArea_006",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_007",
+    "subject_type": "Contributor",
+    "predicate": "TARGETS",
+    "object": "ImpactArea_007",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_008",
+    "subject_type": "Contributor",
+    "predicate": "TARGETS",
+    "object": "ImpactArea_008",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_009",
+    "subject_type": "Contributor",
+    "predicate": "TARGETS",
+    "object": "ImpactArea_009",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_010",
+    "subject_type": "Contributor",
+    "predicate": "TARGETS",
+    "object": "ImpactArea_010",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_011",
+    "subject_type": "Contributor",
+    "predicate": "TARGETS",
+    "object": "ImpactArea_011",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_012",
+    "subject_type": "Contributor",
+    "predicate": "TARGETS",
+    "object": "ImpactArea_012",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_013",
+    "subject_type": "Contributor",
+    "predicate": "TARGETS",
+    "object": "ImpactArea_013",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_014",
+    "subject_type": "Contributor",
+    "predicate": "TARGETS",
+    "object": "ImpactArea_014",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_015",
+    "subject_type": "Contributor",
+    "predicate": "TARGETS",
+    "object": "ImpactArea_015",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_016",
+    "subject_type": "Contributor",
+    "predicate": "TARGETS",
+    "object": "ImpactArea_016",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_017",
+    "subject_type": "Contributor",
+    "predicate": "TARGETS",
+    "object": "ImpactArea_017",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_018",
+    "subject_type": "Contributor",
+    "predicate": "TARGETS",
+    "object": "ImpactArea_018",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_019",
+    "subject_type": "Contributor",
+    "predicate": "TARGETS",
+    "object": "ImpactArea_019",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_020",
+    "subject_type": "Contributor",
+    "predicate": "TARGETS",
+    "object": "ImpactArea_020",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_021",
+    "subject_type": "Contributor",
+    "predicate": "TARGETS",
+    "object": "ImpactArea_021",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_022",
+    "subject_type": "Contributor",
+    "predicate": "TARGETS",
+    "object": "ImpactArea_022",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_023",
+    "subject_type": "Contributor",
+    "predicate": "TARGETS",
+    "object": "ImpactArea_023",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_024",
+    "subject_type": "Contributor",
+    "predicate": "TARGETS",
+    "object": "ImpactArea_024",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_025",
+    "subject_type": "Contributor",
+    "predicate": "TARGETS",
+    "object": "ImpactArea_025",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_026",
+    "subject_type": "Contributor",
+    "predicate": "TARGETS",
+    "object": "ImpactArea_026",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_027",
+    "subject_type": "Contributor",
+    "predicate": "TARGETS",
+    "object": "ImpactArea_027",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_028",
+    "subject_type": "Contributor",
+    "predicate": "TARGETS",
+    "object": "ImpactArea_028",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_029",
+    "subject_type": "Contributor",
+    "predicate": "TARGETS",
+    "object": "ImpactArea_029",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_030",
+    "subject_type": "Contributor",
+    "predicate": "TARGETS",
+    "object": "ImpactArea_030",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Contributor_031",
+    "subject_type": "Contributor",
+    "predicate": "TARGETS",
+    "object": "ImpactArea_031",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_001",
+    "subject_type": "Issue",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_001",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_002",
+    "subject_type": "Issue",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_002",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_003",
+    "subject_type": "Issue",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_003",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_004",
+    "subject_type": "Issue",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_004",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_005",
+    "subject_type": "Issue",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_005",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_006",
+    "subject_type": "Issue",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_006",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_007",
+    "subject_type": "Issue",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_007",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_008",
+    "subject_type": "Issue",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_008",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_009",
+    "subject_type": "Issue",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_009",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_010",
+    "subject_type": "Issue",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_010",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_011",
+    "subject_type": "Issue",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_011",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_012",
+    "subject_type": "Issue",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_012",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_013",
+    "subject_type": "Issue",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_013",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_014",
+    "subject_type": "Issue",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_014",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_015",
+    "subject_type": "Issue",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_015",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_016",
+    "subject_type": "Issue",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_016",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_017",
+    "subject_type": "Issue",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_017",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_018",
+    "subject_type": "Issue",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_018",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_019",
+    "subject_type": "Issue",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_019",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_020",
+    "subject_type": "Issue",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_020",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_021",
+    "subject_type": "Issue",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_021",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_022",
+    "subject_type": "Issue",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_022",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_023",
+    "subject_type": "Issue",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_023",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_024",
+    "subject_type": "Issue",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_024",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_025",
+    "subject_type": "Issue",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_025",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_026",
+    "subject_type": "Issue",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_026",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_027",
+    "subject_type": "Issue",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_027",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_028",
+    "subject_type": "Issue",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_028",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_029",
+    "subject_type": "Issue",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_029",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_030",
+    "subject_type": "Issue",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_030",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_031",
+    "subject_type": "Issue",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_031",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_001",
+    "subject_type": "Issue",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_001",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_002",
+    "subject_type": "Issue",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_002",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_003",
+    "subject_type": "Issue",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_003",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_004",
+    "subject_type": "Issue",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_004",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_005",
+    "subject_type": "Issue",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_005",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_006",
+    "subject_type": "Issue",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_006",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_007",
+    "subject_type": "Issue",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_007",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_008",
+    "subject_type": "Issue",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_008",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_009",
+    "subject_type": "Issue",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_009",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_010",
+    "subject_type": "Issue",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_010",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_011",
+    "subject_type": "Issue",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_011",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_012",
+    "subject_type": "Issue",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_012",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_013",
+    "subject_type": "Issue",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_013",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_014",
+    "subject_type": "Issue",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_014",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_015",
+    "subject_type": "Issue",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_015",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_016",
+    "subject_type": "Issue",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_016",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_017",
+    "subject_type": "Issue",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_017",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_018",
+    "subject_type": "Issue",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_018",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_019",
+    "subject_type": "Issue",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_019",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_020",
+    "subject_type": "Issue",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_020",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_021",
+    "subject_type": "Issue",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_021",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_022",
+    "subject_type": "Issue",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_022",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_023",
+    "subject_type": "Issue",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_023",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_024",
+    "subject_type": "Issue",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_024",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_025",
+    "subject_type": "Issue",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_025",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_026",
+    "subject_type": "Issue",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_026",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_027",
+    "subject_type": "Issue",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_027",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_028",
+    "subject_type": "Issue",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_028",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_029",
+    "subject_type": "Issue",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_029",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_030",
+    "subject_type": "Issue",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_030",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_031",
+    "subject_type": "Issue",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_031",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_001",
+    "subject_type": "Issue",
+    "predicate": "HAS_STATUS",
+    "object": "Status_001",
+    "object_type": "Status",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_002",
+    "subject_type": "Issue",
+    "predicate": "HAS_STATUS",
+    "object": "Status_002",
+    "object_type": "Status",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_003",
+    "subject_type": "Issue",
+    "predicate": "HAS_STATUS",
+    "object": "Status_003",
+    "object_type": "Status",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_004",
+    "subject_type": "Issue",
+    "predicate": "HAS_STATUS",
+    "object": "Status_004",
+    "object_type": "Status",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_005",
+    "subject_type": "Issue",
+    "predicate": "HAS_STATUS",
+    "object": "Status_005",
+    "object_type": "Status",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_006",
+    "subject_type": "Issue",
+    "predicate": "HAS_STATUS",
+    "object": "Status_006",
+    "object_type": "Status",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_007",
+    "subject_type": "Issue",
+    "predicate": "HAS_STATUS",
+    "object": "Status_007",
+    "object_type": "Status",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_008",
+    "subject_type": "Issue",
+    "predicate": "HAS_STATUS",
+    "object": "Status_008",
+    "object_type": "Status",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_009",
+    "subject_type": "Issue",
+    "predicate": "HAS_STATUS",
+    "object": "Status_009",
+    "object_type": "Status",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_010",
+    "subject_type": "Issue",
+    "predicate": "HAS_STATUS",
+    "object": "Status_010",
+    "object_type": "Status",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_011",
+    "subject_type": "Issue",
+    "predicate": "HAS_STATUS",
+    "object": "Status_011",
+    "object_type": "Status",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_012",
+    "subject_type": "Issue",
+    "predicate": "HAS_STATUS",
+    "object": "Status_012",
+    "object_type": "Status",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_013",
+    "subject_type": "Issue",
+    "predicate": "HAS_STATUS",
+    "object": "Status_013",
+    "object_type": "Status",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_014",
+    "subject_type": "Issue",
+    "predicate": "HAS_STATUS",
+    "object": "Status_014",
+    "object_type": "Status",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_015",
+    "subject_type": "Issue",
+    "predicate": "HAS_STATUS",
+    "object": "Status_015",
+    "object_type": "Status",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_016",
+    "subject_type": "Issue",
+    "predicate": "HAS_STATUS",
+    "object": "Status_016",
+    "object_type": "Status",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_017",
+    "subject_type": "Issue",
+    "predicate": "HAS_STATUS",
+    "object": "Status_017",
+    "object_type": "Status",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_018",
+    "subject_type": "Issue",
+    "predicate": "HAS_STATUS",
+    "object": "Status_018",
+    "object_type": "Status",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_019",
+    "subject_type": "Issue",
+    "predicate": "HAS_STATUS",
+    "object": "Status_019",
+    "object_type": "Status",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_020",
+    "subject_type": "Issue",
+    "predicate": "HAS_STATUS",
+    "object": "Status_020",
+    "object_type": "Status",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_021",
+    "subject_type": "Issue",
+    "predicate": "HAS_STATUS",
+    "object": "Status_021",
+    "object_type": "Status",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_022",
+    "subject_type": "Issue",
+    "predicate": "HAS_STATUS",
+    "object": "Status_022",
+    "object_type": "Status",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_023",
+    "subject_type": "Issue",
+    "predicate": "HAS_STATUS",
+    "object": "Status_023",
+    "object_type": "Status",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_024",
+    "subject_type": "Issue",
+    "predicate": "HAS_STATUS",
+    "object": "Status_024",
+    "object_type": "Status",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_025",
+    "subject_type": "Issue",
+    "predicate": "HAS_STATUS",
+    "object": "Status_025",
+    "object_type": "Status",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_026",
+    "subject_type": "Issue",
+    "predicate": "HAS_STATUS",
+    "object": "Status_026",
+    "object_type": "Status",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_027",
+    "subject_type": "Issue",
+    "predicate": "HAS_STATUS",
+    "object": "Status_027",
+    "object_type": "Status",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_028",
+    "subject_type": "Issue",
+    "predicate": "HAS_STATUS",
+    "object": "Status_028",
+    "object_type": "Status",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_029",
+    "subject_type": "Issue",
+    "predicate": "HAS_STATUS",
+    "object": "Status_029",
+    "object_type": "Status",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_030",
+    "subject_type": "Issue",
+    "predicate": "HAS_STATUS",
+    "object": "Status_030",
+    "object_type": "Status",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Issue_031",
+    "subject_type": "Issue",
+    "predicate": "HAS_STATUS",
+    "object": "Status_031",
+    "object_type": "Status",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_001",
+    "subject_type": "Trend",
+    "predicate": "OBSERVED_IN",
+    "object": "Region_001",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_002",
+    "subject_type": "Trend",
+    "predicate": "OBSERVED_IN",
+    "object": "Region_002",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_003",
+    "subject_type": "Trend",
+    "predicate": "OBSERVED_IN",
+    "object": "Region_003",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_004",
+    "subject_type": "Trend",
+    "predicate": "OBSERVED_IN",
+    "object": "Region_004",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_005",
+    "subject_type": "Trend",
+    "predicate": "OBSERVED_IN",
+    "object": "Region_005",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_006",
+    "subject_type": "Trend",
+    "predicate": "OBSERVED_IN",
+    "object": "Region_006",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_007",
+    "subject_type": "Trend",
+    "predicate": "OBSERVED_IN",
+    "object": "Region_007",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_008",
+    "subject_type": "Trend",
+    "predicate": "OBSERVED_IN",
+    "object": "Region_008",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_009",
+    "subject_type": "Trend",
+    "predicate": "OBSERVED_IN",
+    "object": "Region_009",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_010",
+    "subject_type": "Trend",
+    "predicate": "OBSERVED_IN",
+    "object": "Region_010",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_011",
+    "subject_type": "Trend",
+    "predicate": "OBSERVED_IN",
+    "object": "Region_011",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_012",
+    "subject_type": "Trend",
+    "predicate": "OBSERVED_IN",
+    "object": "Region_012",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_013",
+    "subject_type": "Trend",
+    "predicate": "OBSERVED_IN",
+    "object": "Region_013",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_014",
+    "subject_type": "Trend",
+    "predicate": "OBSERVED_IN",
+    "object": "Region_014",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_015",
+    "subject_type": "Trend",
+    "predicate": "OBSERVED_IN",
+    "object": "Region_015",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_016",
+    "subject_type": "Trend",
+    "predicate": "OBSERVED_IN",
+    "object": "Region_016",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_017",
+    "subject_type": "Trend",
+    "predicate": "OBSERVED_IN",
+    "object": "Region_017",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_018",
+    "subject_type": "Trend",
+    "predicate": "OBSERVED_IN",
+    "object": "Region_018",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_019",
+    "subject_type": "Trend",
+    "predicate": "OBSERVED_IN",
+    "object": "Region_019",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_020",
+    "subject_type": "Trend",
+    "predicate": "OBSERVED_IN",
+    "object": "Region_020",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_021",
+    "subject_type": "Trend",
+    "predicate": "OBSERVED_IN",
+    "object": "Region_021",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_022",
+    "subject_type": "Trend",
+    "predicate": "OBSERVED_IN",
+    "object": "Region_022",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_023",
+    "subject_type": "Trend",
+    "predicate": "OBSERVED_IN",
+    "object": "Region_023",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_024",
+    "subject_type": "Trend",
+    "predicate": "OBSERVED_IN",
+    "object": "Region_024",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_025",
+    "subject_type": "Trend",
+    "predicate": "OBSERVED_IN",
+    "object": "Region_025",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_026",
+    "subject_type": "Trend",
+    "predicate": "OBSERVED_IN",
+    "object": "Region_026",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_027",
+    "subject_type": "Trend",
+    "predicate": "OBSERVED_IN",
+    "object": "Region_027",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_028",
+    "subject_type": "Trend",
+    "predicate": "OBSERVED_IN",
+    "object": "Region_028",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_029",
+    "subject_type": "Trend",
+    "predicate": "OBSERVED_IN",
+    "object": "Region_029",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_030",
+    "subject_type": "Trend",
+    "predicate": "OBSERVED_IN",
+    "object": "Region_030",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_031",
+    "subject_type": "Trend",
+    "predicate": "OBSERVED_IN",
+    "object": "Region_031",
+    "object_type": "Region",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_001",
+    "subject_type": "Trend",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_001",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_002",
+    "subject_type": "Trend",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_002",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_003",
+    "subject_type": "Trend",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_003",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_004",
+    "subject_type": "Trend",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_004",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_005",
+    "subject_type": "Trend",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_005",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_006",
+    "subject_type": "Trend",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_006",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_007",
+    "subject_type": "Trend",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_007",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_008",
+    "subject_type": "Trend",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_008",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_009",
+    "subject_type": "Trend",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_009",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_010",
+    "subject_type": "Trend",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_010",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_011",
+    "subject_type": "Trend",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_011",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_012",
+    "subject_type": "Trend",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_012",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_013",
+    "subject_type": "Trend",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_013",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_014",
+    "subject_type": "Trend",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_014",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_015",
+    "subject_type": "Trend",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_015",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_016",
+    "subject_type": "Trend",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_016",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_017",
+    "subject_type": "Trend",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_017",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_018",
+    "subject_type": "Trend",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_018",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_019",
+    "subject_type": "Trend",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_019",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_020",
+    "subject_type": "Trend",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_020",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_021",
+    "subject_type": "Trend",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_021",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_022",
+    "subject_type": "Trend",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_022",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_023",
+    "subject_type": "Trend",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_023",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_024",
+    "subject_type": "Trend",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_024",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_025",
+    "subject_type": "Trend",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_025",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_026",
+    "subject_type": "Trend",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_026",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_027",
+    "subject_type": "Trend",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_027",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_028",
+    "subject_type": "Trend",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_028",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_029",
+    "subject_type": "Trend",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_029",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_030",
+    "subject_type": "Trend",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_030",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Trend_031",
+    "subject_type": "Trend",
+    "predicate": "BELONGS_TO",
+    "object": "Domain_031",
+    "object_type": "Domain",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_001",
+    "subject_type": "Idea",
+    "predicate": "HAS_IMPACT_ON",
+    "object": "ImpactArea_001",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_002",
+    "subject_type": "Idea",
+    "predicate": "HAS_IMPACT_ON",
+    "object": "ImpactArea_002",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_003",
+    "subject_type": "Idea",
+    "predicate": "HAS_IMPACT_ON",
+    "object": "ImpactArea_003",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_004",
+    "subject_type": "Idea",
+    "predicate": "HAS_IMPACT_ON",
+    "object": "ImpactArea_004",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_005",
+    "subject_type": "Idea",
+    "predicate": "HAS_IMPACT_ON",
+    "object": "ImpactArea_005",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_006",
+    "subject_type": "Idea",
+    "predicate": "HAS_IMPACT_ON",
+    "object": "ImpactArea_006",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_007",
+    "subject_type": "Idea",
+    "predicate": "HAS_IMPACT_ON",
+    "object": "ImpactArea_007",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_008",
+    "subject_type": "Idea",
+    "predicate": "HAS_IMPACT_ON",
+    "object": "ImpactArea_008",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_009",
+    "subject_type": "Idea",
+    "predicate": "HAS_IMPACT_ON",
+    "object": "ImpactArea_009",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_010",
+    "subject_type": "Idea",
+    "predicate": "HAS_IMPACT_ON",
+    "object": "ImpactArea_010",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_011",
+    "subject_type": "Idea",
+    "predicate": "HAS_IMPACT_ON",
+    "object": "ImpactArea_011",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_012",
+    "subject_type": "Idea",
+    "predicate": "HAS_IMPACT_ON",
+    "object": "ImpactArea_012",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_013",
+    "subject_type": "Idea",
+    "predicate": "HAS_IMPACT_ON",
+    "object": "ImpactArea_013",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_014",
+    "subject_type": "Idea",
+    "predicate": "HAS_IMPACT_ON",
+    "object": "ImpactArea_014",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_015",
+    "subject_type": "Idea",
+    "predicate": "HAS_IMPACT_ON",
+    "object": "ImpactArea_015",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_016",
+    "subject_type": "Idea",
+    "predicate": "HAS_IMPACT_ON",
+    "object": "ImpactArea_016",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_017",
+    "subject_type": "Idea",
+    "predicate": "HAS_IMPACT_ON",
+    "object": "ImpactArea_017",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_018",
+    "subject_type": "Idea",
+    "predicate": "HAS_IMPACT_ON",
+    "object": "ImpactArea_018",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_019",
+    "subject_type": "Idea",
+    "predicate": "HAS_IMPACT_ON",
+    "object": "ImpactArea_019",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_020",
+    "subject_type": "Idea",
+    "predicate": "HAS_IMPACT_ON",
+    "object": "ImpactArea_020",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_021",
+    "subject_type": "Idea",
+    "predicate": "HAS_IMPACT_ON",
+    "object": "ImpactArea_021",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_022",
+    "subject_type": "Idea",
+    "predicate": "HAS_IMPACT_ON",
+    "object": "ImpactArea_022",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_023",
+    "subject_type": "Idea",
+    "predicate": "HAS_IMPACT_ON",
+    "object": "ImpactArea_023",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_024",
+    "subject_type": "Idea",
+    "predicate": "HAS_IMPACT_ON",
+    "object": "ImpactArea_024",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_025",
+    "subject_type": "Idea",
+    "predicate": "HAS_IMPACT_ON",
+    "object": "ImpactArea_025",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_026",
+    "subject_type": "Idea",
+    "predicate": "HAS_IMPACT_ON",
+    "object": "ImpactArea_026",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_027",
+    "subject_type": "Idea",
+    "predicate": "HAS_IMPACT_ON",
+    "object": "ImpactArea_027",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_028",
+    "subject_type": "Idea",
+    "predicate": "HAS_IMPACT_ON",
+    "object": "ImpactArea_028",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_029",
+    "subject_type": "Idea",
+    "predicate": "HAS_IMPACT_ON",
+    "object": "ImpactArea_029",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_030",
+    "subject_type": "Idea",
+    "predicate": "HAS_IMPACT_ON",
+    "object": "ImpactArea_030",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_031",
+    "subject_type": "Idea",
+    "predicate": "HAS_IMPACT_ON",
+    "object": "ImpactArea_031",
+    "object_type": "ImpactArea",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_001",
+    "subject_type": "Idea",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_001",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_002",
+    "subject_type": "Idea",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_002",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_003",
+    "subject_type": "Idea",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_003",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_004",
+    "subject_type": "Idea",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_004",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_005",
+    "subject_type": "Idea",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_005",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_006",
+    "subject_type": "Idea",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_006",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_007",
+    "subject_type": "Idea",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_007",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_008",
+    "subject_type": "Idea",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_008",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_009",
+    "subject_type": "Idea",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_009",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_010",
+    "subject_type": "Idea",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_010",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_011",
+    "subject_type": "Idea",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_011",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_012",
+    "subject_type": "Idea",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_012",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_013",
+    "subject_type": "Idea",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_013",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_014",
+    "subject_type": "Idea",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_014",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_015",
+    "subject_type": "Idea",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_015",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_016",
+    "subject_type": "Idea",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_016",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_017",
+    "subject_type": "Idea",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_017",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_018",
+    "subject_type": "Idea",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_018",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_019",
+    "subject_type": "Idea",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_019",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_020",
+    "subject_type": "Idea",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_020",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_021",
+    "subject_type": "Idea",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_021",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_022",
+    "subject_type": "Idea",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_022",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_023",
+    "subject_type": "Idea",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_023",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_024",
+    "subject_type": "Idea",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_024",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_025",
+    "subject_type": "Idea",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_025",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_026",
+    "subject_type": "Idea",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_026",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_027",
+    "subject_type": "Idea",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_027",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_028",
+    "subject_type": "Idea",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_028",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_029",
+    "subject_type": "Idea",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_029",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_030",
+    "subject_type": "Idea",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_030",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  },
+  {
+    "subject": "Idea_031",
+    "subject_type": "Idea",
+    "predicate": "ORIGINATED_FROM",
+    "object": "Platform_031",
+    "object_type": "Platform",
+    "source": "high_accuracy_synthetic"
+  }
+]

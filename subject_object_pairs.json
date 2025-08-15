@@ -1,0 +1,306 @@
+[
+  {
+    "subject": "Test_User_1",
+    "subject_type": "User",
+    "object": "Test_Issue_1",
+    "object_type": "Issue",
+    "correct_predicate": "RAISED",
+    "predicted_predicate": "RAISED"
+  },
+  {
+    "subject": "Test_User_2",
+    "subject_type": "User",
+    "object": "Test_Issue_2",
+    "object_type": "Issue",
+    "correct_predicate": "RAISED",
+    "predicted_predicate": "RAISED"
+  },
+  {
+    "subject": "Test_User_1",
+    "subject_type": "User",
+    "object": "Test_Idea_1",
+    "object_type": "Idea",
+    "correct_predicate": "PROPOSED",
+    "predicted_predicate": "PROPOSED"
+  },
+  {
+    "subject": "Test_User_2",
+    "subject_type": "User",
+    "object": "Test_Idea_2",
+    "object_type": "Idea",
+    "correct_predicate": "PROPOSED",
+    "predicted_predicate": "PROPOSED"
+  },
+  {
+    "subject": "Test_User_1",
+    "subject_type": "User",
+    "object": "Test_Platform_1",
+    "object_type": "Platform",
+    "correct_predicate": "USES",
+    "predicted_predicate": "USES"
+  },
+  {
+    "subject": "Test_User_2",
+    "subject_type": "User",
+    "object": "Test_Platform_2",
+    "object_type": "Platform",
+    "correct_predicate": "USES",
+    "predicted_predicate": "USES"
+  },
+  {
+    "subject": "Test_User_1",
+    "subject_type": "User",
+    "object": "Test_Domain_1",
+    "object_type": "Domain",
+    "correct_predicate": "WORKS_IN",
+    "predicted_predicate": "WORKS_IN"
+  },
+  {
+    "subject": "Test_User_2",
+    "subject_type": "User",
+    "object": "Test_Domain_2",
+    "object_type": "Domain",
+    "correct_predicate": "WORKS_IN",
+    "predicted_predicate": "WORKS_IN"
+  },
+  {
+    "subject": "Test_Analyst_1",
+    "subject_type": "Analyst",
+    "object": "Test_Trend_1",
+    "object_type": "Trend",
+    "correct_predicate": "AUTHORED",
+    "predicted_predicate": "AUTHORED"
+  },
+  {
+    "subject": "Test_Analyst_2",
+    "subject_type": "Analyst",
+    "object": "Test_Trend_2",
+    "object_type": "Trend",
+    "correct_predicate": "AUTHORED",
+    "predicted_predicate": "AUTHORED"
+  },
+  {
+    "subject": "Test_Analyst_1",
+    "subject_type": "Analyst",
+    "object": "Test_Report_1",
+    "object_type": "Report",
+    "correct_predicate": "CREATED",
+    "predicted_predicate": "CREATED"
+  },
+  {
+    "subject": "Test_Analyst_2",
+    "subject_type": "Analyst",
+    "object": "Test_Report_2",
+    "object_type": "Report",
+    "correct_predicate": "CREATED",
+    "predicted_predicate": "CREATED"
+  },
+  {
+    "subject": "Test_Analyst_1",
+    "subject_type": "Analyst",
+    "object": "Test_Domain_1",
+    "object_type": "Domain",
+    "correct_predicate": "ANALYZES",
+    "predicted_predicate": "ANALYZES"
+  },
+  {
+    "subject": "Test_Analyst_2",
+    "subject_type": "Analyst",
+    "object": "Test_Domain_2",
+    "object_type": "Domain",
+    "correct_predicate": "ANALYZES",
+    "predicted_predicate": "ANALYZES"
+  },
+  {
+    "subject": "Test_Analyst_1",
+    "subject_type": "Analyst",
+    "object": "Test_Region_1",
+    "object_type": "Region",
+    "correct_predicate": "COVERS",
+    "predicted_predicate": "COVERS"
+  },
+  {
+    "subject": "Test_Analyst_2",
+    "subject_type": "Analyst",
+    "object": "Test_Region_2",
+    "object_type": "Region",
+    "correct_predicate": "COVERS",
+    "predicted_predicate": "COVERS"
+  },
+  {
+    "subject": "Test_Contributor_1",
+    "subject_type": "Contributor",
+    "object": "Test_Idea_1",
+    "object_type": "Idea",
+    "correct_predicate": "DEVELOPED",
+    "predicted_predicate": "DEVELOPED"
+  },
+  {
+    "subject": "Test_Contributor_2",
+    "subject_type": "Contributor",
+    "object": "Test_Idea_2",
+    "object_type": "Idea",
+    "correct_predicate": "DEVELOPED",
+    "predicted_predicate": "DEVELOPED"
+  },
+  {
+    "subject": "Test_Contributor_1",
+    "subject_type": "Contributor",
+    "object": "Test_Project_1",
+    "object_type": "Project",
+    "correct_predicate": "LEADS",
+    "predicted_predicate": "LEADS"
+  },
+  {
+    "subject": "Test_Contributor_2",
+    "subject_type": "Contributor",
+    "object": "Test_Project_2",
+    "object_type": "Project",
+    "correct_predicate": "LEADS",
+    "predicted_predicate": "LEADS"
+  },
+  {
+    "subject": "Test_Contributor_1",
+    "subject_type": "Contributor",
+    "object": "Test_Platform_1",
+    "object_type": "Platform",
+    "correct_predicate": "IMPROVES",
+    "predicted_predicate": "IMPROVES"
+  },
+  {
+    "subject": "Test_Contributor_2",
+    "subject_type": "Contributor",
+    "object": "Test_Platform_2",
+    "object_type": "Platform",
+    "correct_predicate": "IMPROVES",
+    "predicted_predicate": "IMPROVES"
+  },
+  {
+    "subject": "Test_Contributor_1",
+    "subject_type": "Contributor",
+    "object": "Test_ImpactArea_1",
+    "object_type": "ImpactArea",
+    "correct_predicate": "TARGETS",
+    "predicted_predicate": "TARGETS"
+  },
+  {
+    "subject": "Test_Contributor_2",
+    "subject_type": "Contributor",
+    "object": "Test_ImpactArea_2",
+    "object_type": "ImpactArea",
+    "correct_predicate": "TARGETS",
+    "predicted_predicate": "TARGETS"
+  },
+  {
+    "subject": "Test_Issue_1",
+    "subject_type": "Issue",
+    "object": "Test_Platform_1",
+    "object_type": "Platform",
+    "correct_predicate": "ORIGINATED_FROM",
+    "predicted_predicate": "ORIGINATED_FROM"
+  },
+  {
+    "subject": "Test_Issue_2",
+    "subject_type": "Issue",
+    "object": "Test_Platform_2",
+    "object_type": "Platform",
+    "correct_predicate": "ORIGINATED_FROM",
+    "predicted_predicate": "ORIGINATED_FROM"
+  },
+  {
+    "subject": "Test_Issue_1",
+    "subject_type": "Issue",
+    "object": "Test_Domain_1",
+    "object_type": "Domain",
+    "correct_predicate": "BELONGS_TO",
+    "predicted_predicate": "BELONGS_TO"
+  },
+  {
+    "subject": "Test_Issue_2",
+    "subject_type": "Issue",
+    "object": "Test_Domain_2",
+    "object_type": "Domain",
+    "correct_predicate": "BELONGS_TO",
+    "predicted_predicate": "BELONGS_TO"
+  },
+  {
+    "subject": "Test_Issue_1",
+    "subject_type": "Issue",
+    "object": "Test_Status_1",
+    "object_type": "Status",
+    "correct_predicate": "HAS_STATUS",
+    "predicted_predicate": "HAS_STATUS"
+  },
+  {
+    "subject": "Test_Issue_2",
+    "subject_type": "Issue",
+    "object": "Test_Status_2",
+    "object_type": "Status",
+    "correct_predicate": "HAS_STATUS",
+    "predicted_predicate": "HAS_STATUS"
+  },
+  {
+    "subject": "Test_Trend_1",
+    "subject_type": "Trend",
+    "object": "Test_Region_1",
+    "object_type": "Region",
+    "correct_predicate": "OBSERVED_IN",
+    "predicted_predicate": "OBSERVED_IN"
+  },
+  {
+    "subject": "Test_Trend_2",
+    "subject_type": "Trend",
+    "object": "Test_Region_2",
+    "object_type": "Region",
+    "correct_predicate": "OBSERVED_IN",
+    "predicted_predicate": "OBSERVED_IN"
+  },
+  {
+    "subject": "Test_Trend_1",
+    "subject_type": "Trend",
+    "object": "Test_Domain_1",
+    "object_type": "Domain",
+    "correct_predicate": "BELONGS_TO",
+    "predicted_predicate": "BELONGS_TO"
+  },
+  {
+    "subject": "Test_Trend_2",
+    "subject_type": "Trend",
+    "object": "Test_Domain_2",
+    "object_type": "Domain",
+    "correct_predicate": "BELONGS_TO",
+    "predicted_predicate": "BELONGS_TO"
+  },
+  {
+    "subject": "Test_Idea_1",
+    "subject_type": "Idea",
+    "object": "Test_ImpactArea_1",
+    "object_type": "ImpactArea",
+    "correct_predicate": "HAS_IMPACT_ON",
+    "predicted_predicate": "HAS_IMPACT_ON"
+  },
+  {
+    "subject": "Test_Idea_2",
+    "subject_type": "Idea",
+    "object": "Test_ImpactArea_2",
+    "object_type": "ImpactArea",
+    "correct_predicate": "HAS_IMPACT_ON",
+    "predicted_predicate": "HAS_IMPACT_ON"
+  },
+  {
+    "subject": "Test_Idea_1",
+    "subject_type": "Idea",
+    "object": "Test_Platform_1",
+    "object_type": "Platform",
+    "correct_predicate": "ORIGINATED_FROM",
+    "predicted_predicate": "ORIGINATED_FROM"
+  },
+  {
+    "subject": "Test_Idea_2",
+    "subject_type": "Idea",
+    "object": "Test_Platform_2",
+    "object_type": "Platform",
+    "correct_predicate": "ORIGINATED_FROM",
+    "predicted_predicate": "ORIGINATED_FROM"
+  }
+]

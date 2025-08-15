@@ -1,0 +1,902 @@
+[
+  {
+    "question": "Find all connections between Afkari and Exsight through relationships",
+    "answer": "Multi-hop analysis reveals Afkari connects to Exsight through shared project collaborations, domain expertise overlap, and indirect relationship chains.",
+    "difficulty": "challenging",
+    "category": "multi_hop"
+  },
+  {
+    "question": "Show Afkari related issues",
+    "answer": "Platform Afkari has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show InsightUX related issues",
+    "answer": "Platform InsightUX has several reported issues including connectivity problems, user interface bugs, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Find all connections between Sam_Analyst and John_Smith through relationships",
+    "answer": "Multi-hop analysis reveals Sam_Analyst connects to John_Smith through shared project collaborations, domain expertise overlap, and indirect relationship chains.",
+    "difficulty": "challenging",
+    "category": "multi_hop"
+  },
+  {
+    "question": "List issues reported by John_Smith",
+    "answer": "User John_Smith raised these problems: Performance_Issue in Technical domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "List issues reported by Sarah_Wilson",
+    "answer": "User Sarah_Wilson raised these problems: Data_Sync_Issue in Data_Management domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What did Mike_Johnson report?",
+    "answer": "User Mike_Johnson raised these problems: Login_Issue in Security domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What did Alice_Manager report?",
+    "answer": "User Alice_Manager has raised multiple issues including system bugs, feature requests, and performance problems in various domains.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show me problems from InnovateX platform",
+    "answer": "Platform InnovateX has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What problems were raised by Alice_Manager?",
+    "answer": "User Alice_Manager raised these problems: Dashboard_Loading_Issue in Performance domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What patterns exist between John_Smith activities and Enterprise trends?",
+    "answer": "Statistical analysis shows John_Smith demonstrates consistent engagement patterns in Enterprise, with high correlation between activity frequency and domain trend emergence.",
+    "difficulty": "analytical",
+    "category": "pattern_analysis"
+  },
+  {
+    "question": "What did John_Smith report?",
+    "answer": "User John_Smith raised these problems: Performance_Issue in Technical domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What did Alice_Manager report?",
+    "answer": "User Alice_Manager has raised multiple issues including system bugs, feature requests, and performance problems in various domains.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What did Mike_Johnson report?",
+    "answer": "User Mike_Johnson has raised multiple issues including system bugs, feature requests, and performance problems in various domains.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What problems were raised by Alice_Manager?",
+    "answer": "User Alice_Manager raised these problems: Dashboard_Loading_Issue in Performance domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What problems were raised by Jane_Doe?",
+    "answer": "User Jane_Doe raised these problems: UI_Bug_Issue in User_Interface domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show me problems from InsightUX platform",
+    "answer": "Platform InsightUX has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show InnovateX related issues",
+    "answer": "Platform InnovateX has several reported issues including connectivity problems, user interface bugs, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Find all connections between Predictive_Maintenance_Trend and Technical through relationships",
+    "answer": "Multi-hop analysis reveals Predictive_Maintenance_Trend connects to Technical through shared project collaborations, domain expertise overlap, and indirect relationship chains.",
+    "difficulty": "challenging",
+    "category": "multi_hop"
+  },
+  {
+    "question": "Show InsightUX related issues",
+    "answer": "Platform InsightUX has several reported issues including connectivity problems, user interface bugs, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show me problems from Afkari platform",
+    "answer": "Platform Afkari has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What problems were raised by Alice_Manager?",
+    "answer": "User Alice_Manager has raised multiple issues including system bugs, feature requests, and performance problems in various domains.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Find all connections between Priya_Innovation and Sam_Analyst through relationships",
+    "answer": "Multi-hop analysis reveals Priya_Innovation connects to Sam_Analyst through shared project collaborations, domain expertise overlap, and indirect relationship chains.",
+    "difficulty": "challenging",
+    "category": "multi_hop"
+  },
+  {
+    "question": "What did Alice_Manager report?",
+    "answer": "User Alice_Manager raised these problems: Dashboard_Loading_Issue in Performance domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show me problems from InsightUX platform",
+    "answer": "Platform InsightUX has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What problems were raised by Mike_Johnson?",
+    "answer": "User Mike_Johnson raised these problems: Login_Issue in Security domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Find all problems in Insurance",
+    "answer": "Domain Insurance currently has various problems including performance issues, security concerns, and user experience challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show Afkari related issues",
+    "answer": "Platform Afkari has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show me problems from Exsight platform",
+    "answer": "Platform Exsight has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What did John_Smith report?",
+    "answer": "User John_Smith raised these problems: Performance_Issue in Technical domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What problems were raised by Alice_Manager?",
+    "answer": "User Alice_Manager raised these problems: Dashboard_Loading_Issue in Performance domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What problems were raised by John_Smith?",
+    "answer": "User John_Smith raised these problems: Performance_Issue in Technical domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What patterns exist between John_Smith activities and Healthcare trends?",
+    "answer": "Statistical analysis shows John_Smith demonstrates consistent engagement patterns in Healthcare, with high correlation between activity frequency and domain trend emergence.",
+    "difficulty": "analytical",
+    "category": "pattern_analysis"
+  },
+  {
+    "question": "What patterns exist between Mike_Johnson activities and User_Interface trends?",
+    "answer": "Statistical analysis shows Mike_Johnson demonstrates consistent engagement patterns in User_Interface, with high correlation between activity frequency and domain trend emergence.",
+    "difficulty": "analytical",
+    "category": "pattern_analysis"
+  },
+  {
+    "question": "List issues reported by Jane_Doe",
+    "answer": "User Jane_Doe raised these problems: UI_Bug_Issue in User_Interface domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "List issues reported by John_Smith",
+    "answer": "User John_Smith has raised multiple issues including system bugs, feature requests, and performance problems in various domains.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "List issues reported by John_Smith",
+    "answer": "User John_Smith raised these problems: Performance_Issue in Technical domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What problems were raised by John_Smith?",
+    "answer": "User John_Smith raised these problems: Performance_Issue in Technical domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What problems were raised by Mike_Johnson?",
+    "answer": "User Mike_Johnson raised these problems: Login_Issue in Security domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What problems were raised by John_Smith?",
+    "answer": "User John_Smith raised these problems: Performance_Issue in Technical domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "List issues reported by Alice_Manager",
+    "answer": "User Alice_Manager raised these problems: Dashboard_Loading_Issue in Performance domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show me problems from InnovateX platform",
+    "answer": "Platform InnovateX has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What problems were raised by John_Smith?",
+    "answer": "User John_Smith raised these problems: Performance_Issue in Technical domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show me problems from InnovateX platform",
+    "answer": "Platform InnovateX has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "List issues reported by John_Smith",
+    "answer": "User John_Smith raised these problems: Performance_Issue in Technical domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show me problems from Afkari platform",
+    "answer": "Platform Afkari has several reported issues including connectivity problems, user interface bugs, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show Exsight related issues",
+    "answer": "Platform Exsight has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What problems were raised by Jane_Doe?",
+    "answer": "User Jane_Doe raised these problems: UI_Bug_Issue in User_Interface domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Find all connections between Priya_Innovation and Technical through relationships",
+    "answer": "Multi-hop analysis reveals Priya_Innovation connects to Technical through shared project collaborations, domain expertise overlap, and indirect relationship chains.",
+    "difficulty": "challenging",
+    "category": "multi_hop"
+  },
+  {
+    "question": "What patterns exist between Mike_Johnson activities and Manufacturing trends?",
+    "answer": "Statistical analysis shows Mike_Johnson demonstrates consistent engagement patterns in Manufacturing, with high correlation between activity frequency and domain trend emergence.",
+    "difficulty": "analytical",
+    "category": "pattern_analysis"
+  },
+  {
+    "question": "What problems were raised by Sarah_Wilson?",
+    "answer": "User Sarah_Wilson raised these problems: Data_Sync_Issue in Data_Management domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What patterns exist between Mike_Johnson activities and Manufacturing trends?",
+    "answer": "Statistical analysis shows Mike_Johnson demonstrates consistent engagement patterns in Manufacturing, with high correlation between activity frequency and domain trend emergence.",
+    "difficulty": "analytical",
+    "category": "pattern_analysis"
+  },
+  {
+    "question": "Show me problems from InsightUX platform",
+    "answer": "Platform InsightUX has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Find all connections between Governance and Mike_Johnson through relationships",
+    "answer": "Multi-hop analysis reveals Governance connects to Mike_Johnson through shared project collaborations, domain expertise overlap, and indirect relationship chains.",
+    "difficulty": "challenging",
+    "category": "multi_hop"
+  },
+  {
+    "question": "Show me problems from Afkari platform",
+    "answer": "Platform Afkari has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show me problems from InsightUX platform",
+    "answer": "Platform InsightUX has several reported issues including connectivity problems, user interface bugs, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What problems were raised by Alice_Manager?",
+    "answer": "User Alice_Manager raised these problems: Dashboard_Loading_Issue in Performance domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What patterns exist between Mike_Johnson activities and Water trends?",
+    "answer": "Statistical analysis shows Mike_Johnson demonstrates consistent engagement patterns in Water, with high correlation between activity frequency and domain trend emergence.",
+    "difficulty": "analytical",
+    "category": "pattern_analysis"
+  },
+  {
+    "question": "Show me problems from InnovateX platform",
+    "answer": "Platform InnovateX has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show me problems from InnovateX platform",
+    "answer": "Platform InnovateX has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "List issues reported by Sarah_Wilson",
+    "answer": "User Sarah_Wilson raised these problems: Data_Sync_Issue in Data_Management domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Find all problems in Water",
+    "answer": "Domain Water currently has various problems including performance issues, security concerns, and user experience challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Find all connections between Priya_Innovation and Efficiency through relationships",
+    "answer": "Multi-hop analysis reveals Priya_Innovation connects to Efficiency through shared project collaborations, domain expertise overlap, and indirect relationship chains.",
+    "difficulty": "challenging",
+    "category": "multi_hop"
+  },
+  {
+    "question": "List issues reported by Alice_Manager",
+    "answer": "User Alice_Manager raised these problems: Dashboard_Loading_Issue in Performance domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show me problems from Afkari platform",
+    "answer": "Platform Afkari has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show Afkari related issues",
+    "answer": "Platform Afkari has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "List issues reported by Jane_Doe",
+    "answer": "User Jane_Doe raised these problems: UI_Bug_Issue in User_Interface domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What did Jane_Doe report?",
+    "answer": "User Jane_Doe raised these problems: UI_Bug_Issue in User_Interface domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What did Alice_Manager report?",
+    "answer": "User Alice_Manager raised these problems: Dashboard_Loading_Issue in Performance domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Find all problems in Technical",
+    "answer": "Domain Technical currently has various problems including performance issues, security concerns, and user experience challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show InsightUX related issues",
+    "answer": "Platform InsightUX has several reported issues including connectivity problems, user interface bugs, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show me problems from Exsight platform",
+    "answer": "Platform Exsight has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show InsightUX related issues",
+    "answer": "Platform InsightUX has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What patterns exist between Alice_Manager activities and Marketing trends?",
+    "answer": "Statistical analysis shows Alice_Manager demonstrates consistent engagement patterns in Marketing, with high correlation between activity frequency and domain trend emergence.",
+    "difficulty": "analytical",
+    "category": "pattern_analysis"
+  },
+  {
+    "question": "What are the current problems in Retail domain?",
+    "answer": "Domain Retail currently has various problems including performance issues, security concerns, and user experience challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What patterns exist between Jane_Doe activities and User_Interface trends?",
+    "answer": "Statistical analysis shows Jane_Doe demonstrates consistent engagement patterns in User_Interface, with high correlation between activity frequency and domain trend emergence.",
+    "difficulty": "analytical",
+    "category": "pattern_analysis"
+  },
+  {
+    "question": "Show me problems from InsightUX platform",
+    "answer": "Platform InsightUX has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show InsightUX related issues",
+    "answer": "Platform InsightUX has several reported issues including connectivity problems, user interface bugs, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What did Sarah_Wilson report?",
+    "answer": "User Sarah_Wilson raised these problems: Data_Sync_Issue in Data_Management domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Find all problems in Healthcare",
+    "answer": "Domain Healthcare currently has various problems including performance issues, security concerns, and user experience challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "List issues reported by Jane_Doe",
+    "answer": "User Jane_Doe raised these problems: UI_Bug_Issue in User_Interface domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show InnovateX related issues",
+    "answer": "Platform InnovateX has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show Exsight related issues",
+    "answer": "Platform Exsight has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What patterns exist between John_Smith activities and Technical trends?",
+    "answer": "Statistical analysis shows John_Smith demonstrates consistent engagement patterns in Technical, with high correlation between activity frequency and domain trend emergence.",
+    "difficulty": "analytical",
+    "category": "pattern_analysis"
+  },
+  {
+    "question": "What patterns exist between Sarah_Wilson activities and Enterprise trends?",
+    "answer": "Statistical analysis shows Sarah_Wilson demonstrates consistent engagement patterns in Enterprise, with high correlation between activity frequency and domain trend emergence.",
+    "difficulty": "analytical",
+    "category": "pattern_analysis"
+  },
+  {
+    "question": "List issues reported by Mike_Johnson",
+    "answer": "User Mike_Johnson raised these problems: Login_Issue in Security domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "List issues reported by Jane_Doe",
+    "answer": "User Jane_Doe raised these problems: UI_Bug_Issue in User_Interface domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "List issues reported by Jane_Doe",
+    "answer": "User Jane_Doe raised these problems: UI_Bug_Issue in User_Interface domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Find all connections between APAC and Technical through relationships",
+    "answer": "Multi-hop analysis reveals APAC connects to Technical through shared project collaborations, domain expertise overlap, and indirect relationship chains.",
+    "difficulty": "challenging",
+    "category": "multi_hop"
+  },
+  {
+    "question": "Show Exsight related issues",
+    "answer": "Platform Exsight has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "List issues reported by Alice_Manager",
+    "answer": "User Alice_Manager raised these problems: Dashboard_Loading_Issue in Performance domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show InnovateX related issues",
+    "answer": "Platform InnovateX has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What patterns exist between Mike_Johnson activities and Transportation trends?",
+    "answer": "Statistical analysis shows Mike_Johnson demonstrates consistent engagement patterns in Transportation, with high correlation between activity frequency and domain trend emergence.",
+    "difficulty": "analytical",
+    "category": "pattern_analysis"
+  },
+  {
+    "question": "What did John_Smith report?",
+    "answer": "User John_Smith has raised multiple issues including system bugs, feature requests, and performance problems in various domains.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show me problems from InnovateX platform",
+    "answer": "Platform InnovateX has several reported issues including connectivity problems, user interface bugs, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show Afkari related issues",
+    "answer": "Platform Afkari has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What did Sarah_Wilson report?",
+    "answer": "User Sarah_Wilson raised these problems: Data_Sync_Issue in Data_Management domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Find all connections between Explainable_AI_Decisions and Governance through relationships",
+    "answer": "Multi-hop analysis reveals Explainable_AI_Decisions connects to Governance through shared project collaborations, domain expertise overlap, and indirect relationship chains.",
+    "difficulty": "challenging",
+    "category": "multi_hop"
+  },
+  {
+    "question": "What problems were raised by Mike_Johnson?",
+    "answer": "User Mike_Johnson raised these problems: Login_Issue in Security domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show Afkari related issues",
+    "answer": "Platform Afkari has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "List issues reported by Mike_Johnson",
+    "answer": "User Mike_Johnson raised these problems: Login_Issue in Security domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What are the current problems in Insurance domain?",
+    "answer": "Domain Insurance currently has various problems including performance issues, security concerns, and user experience challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Find all problems in Enterprise",
+    "answer": "Domain Enterprise currently has various problems including performance issues, security concerns, and user experience challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "List issues reported by John_Smith",
+    "answer": "User John_Smith raised these problems: Performance_Issue in Technical domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What are the current problems in MedTech domain?",
+    "answer": "Domain MedTech currently has various problems including performance issues, security concerns, and user experience challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show Exsight related issues",
+    "answer": "Platform Exsight has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show InsightUX related issues",
+    "answer": "Platform InsightUX has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Find all connections between Efficiency and APAC through relationships",
+    "answer": "Multi-hop analysis reveals Efficiency connects to APAC through shared project collaborations, domain expertise overlap, and indirect relationship chains.",
+    "difficulty": "challenging",
+    "category": "multi_hop"
+  },
+  {
+    "question": "Find all connections between Explainable_AI_Decisions and Afkari through relationships",
+    "answer": "Multi-hop analysis reveals Explainable_AI_Decisions connects to Afkari through shared project collaborations, domain expertise overlap, and indirect relationship chains.",
+    "difficulty": "challenging",
+    "category": "multi_hop"
+  },
+  {
+    "question": "What patterns exist between John_Smith activities and Technical trends?",
+    "answer": "Statistical analysis shows John_Smith demonstrates consistent engagement patterns in Technical, with high correlation between activity frequency and domain trend emergence.",
+    "difficulty": "analytical",
+    "category": "pattern_analysis"
+  },
+  {
+    "question": "List issues reported by Jane_Doe",
+    "answer": "User Jane_Doe raised these problems: UI_Bug_Issue in User_Interface domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Find all connections between InsightUX and Smart_Filter_Optimization through relationships",
+    "answer": "Multi-hop analysis reveals InsightUX connects to Smart_Filter_Optimization through shared project collaborations, domain expertise overlap, and indirect relationship chains.",
+    "difficulty": "challenging",
+    "category": "multi_hop"
+  },
+  {
+    "question": "List issues reported by Mike_Johnson",
+    "answer": "User Mike_Johnson raised these problems: Login_Issue in Security domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show Afkari related issues",
+    "answer": "Platform Afkari has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show Afkari related issues",
+    "answer": "Platform Afkari has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What problems were raised by Alice_Manager?",
+    "answer": "User Alice_Manager has raised multiple issues including system bugs, feature requests, and performance problems in various domains.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Find all connections between Explainable_AI_Decisions and UI_Bug_Issue through relationships",
+    "answer": "Multi-hop analysis reveals Explainable_AI_Decisions connects to UI_Bug_Issue through shared project collaborations, domain expertise overlap, and indirect relationship chains.",
+    "difficulty": "challenging",
+    "category": "multi_hop"
+  },
+  {
+    "question": "List issues reported by Jane_Doe",
+    "answer": "User Jane_Doe raised these problems: UI_Bug_Issue in User_Interface domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Find all problems in Marketing",
+    "answer": "Domain Marketing currently has various problems including performance issues, security concerns, and user experience challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What problems were raised by Alice_Manager?",
+    "answer": "User Alice_Manager raised these problems: Dashboard_Loading_Issue in Performance domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What did Jane_Doe report?",
+    "answer": "User Jane_Doe raised these problems: UI_Bug_Issue in User_Interface domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Find all connections between Leena_AI and Arjun_Data through relationships",
+    "answer": "Multi-hop analysis reveals Leena_AI connects to Arjun_Data through shared project collaborations, domain expertise overlap, and indirect relationship chains.",
+    "difficulty": "challenging",
+    "category": "multi_hop"
+  },
+  {
+    "question": "What are the current problems in Water domain?",
+    "answer": "Domain Water currently has various problems including performance issues, security concerns, and user experience challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What problems were raised by John_Smith?",
+    "answer": "User John_Smith raised these problems: Performance_Issue in Technical domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show me problems from InsightUX platform",
+    "answer": "Platform InsightUX has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show me problems from Afkari platform",
+    "answer": "Platform Afkari has several reported issues including connectivity problems, user interface bugs, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "List issues reported by John_Smith",
+    "answer": "User John_Smith raised these problems: Performance_Issue in Technical domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "List issues reported by Jane_Doe",
+    "answer": "User Jane_Doe has raised multiple issues including system bugs, feature requests, and performance problems in various domains.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show me problems from Afkari platform",
+    "answer": "Platform Afkari has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show me problems from InsightUX platform",
+    "answer": "Platform InsightUX has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What problems were raised by Mike_Johnson?",
+    "answer": "User Mike_Johnson raised these problems: Login_Issue in Security domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show me problems from InsightUX platform",
+    "answer": "Platform InsightUX has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What patterns exist between Jane_Doe activities and Marketing trends?",
+    "answer": "Statistical analysis shows Jane_Doe demonstrates consistent engagement patterns in Marketing, with high correlation between activity frequency and domain trend emergence.",
+    "difficulty": "analytical",
+    "category": "pattern_analysis"
+  },
+  {
+    "question": "Show InsightUX related issues",
+    "answer": "Platform InsightUX has several reported issues including connectivity problems, user interface bugs, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Find all connections between User_Interface and Afkari through relationships",
+    "answer": "Multi-hop analysis reveals User_Interface connects to Afkari through shared project collaborations, domain expertise overlap, and indirect relationship chains.",
+    "difficulty": "challenging",
+    "category": "multi_hop"
+  },
+  {
+    "question": "Find all connections between Lisa_Researcher and Smart_Filter_Optimization through relationships",
+    "answer": "Multi-hop analysis reveals Lisa_Researcher connects to Smart_Filter_Optimization through shared project collaborations, domain expertise overlap, and indirect relationship chains.",
+    "difficulty": "challenging",
+    "category": "multi_hop"
+  },
+  {
+    "question": "Show me problems from Afkari platform",
+    "answer": "Platform Afkari has several reported issues including connectivity problems, user interface bugs, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What patterns exist between Alice_Manager activities and Manufacturing trends?",
+    "answer": "Statistical analysis shows Alice_Manager demonstrates consistent engagement patterns in Manufacturing, with high correlation between activity frequency and domain trend emergence.",
+    "difficulty": "analytical",
+    "category": "pattern_analysis"
+  },
+  {
+    "question": "Find all problems in Security",
+    "answer": "Domain Security currently has various problems including performance issues, security concerns, and user experience challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What problems were raised by Sarah_Wilson?",
+    "answer": "User Sarah_Wilson raised these problems: Data_Sync_Issue in Data_Management domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show InsightUX related issues",
+    "answer": "Platform InsightUX has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What are the current problems in Technical domain?",
+    "answer": "Domain Technical currently has various problems including performance issues, security concerns, and user experience challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What patterns exist between Jane_Doe activities and Data_Management trends?",
+    "answer": "Statistical analysis shows Jane_Doe demonstrates consistent engagement patterns in Data_Management, with high correlation between activity frequency and domain trend emergence.",
+    "difficulty": "analytical",
+    "category": "pattern_analysis"
+  },
+  {
+    "question": "What did Jane_Doe report?",
+    "answer": "User Jane_Doe raised these problems: UI_Bug_Issue in User_Interface domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What patterns exist between John_Smith activities and Utilities trends?",
+    "answer": "Statistical analysis shows John_Smith demonstrates consistent engagement patterns in Utilities, with high correlation between activity frequency and domain trend emergence.",
+    "difficulty": "analytical",
+    "category": "pattern_analysis"
+  },
+  {
+    "question": "What did Sarah_Wilson report?",
+    "answer": "User Sarah_Wilson has raised multiple issues including system bugs, feature requests, and performance problems in various domains.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "List issues reported by Jane_Doe",
+    "answer": "User Jane_Doe raised these problems: UI_Bug_Issue in User_Interface domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What are the current problems in Marketing domain?",
+    "answer": "Domain Marketing currently has various problems including performance issues, security concerns, and user experience challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "Show me problems from Afkari platform",
+    "answer": "Platform Afkari has various reported issues including technical bugs, user interface problems, and integration challenges.",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  },
+  {
+    "question": "What problems were raised by Jane_Doe?",
+    "answer": "User Jane_Doe raised these problems: UI_Bug_Issue in User_Interface domain",
+    "difficulty": "simple",
+    "category": "basic_lookup"
+  }
+]

@@ -230,6 +230,7 @@ NeoRAG-AI/
 ├── training_testing_manager.py      #Training data and validation
 ├── spo_training_manager.py          #SPO relationship learning
 ├── random_dataset.py                #Quality assurance tools
+├── requirement.txt                  #Required packages
 ├── README.md                        #Project documentation
 └── Generated Files/
     ├── enhanced_train_dataset.json  #Training data

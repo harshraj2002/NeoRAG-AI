@@ -1,6 +1,6 @@
 # NeoRAG AI
 
-- Knowledge Graph RAG Chatbot System
+A Knowledge Graph RAG Chatbot System.
 
 A knowledge graph-based RAG (Retrieval Augmented Generation) chatbot system that combines Neo4j graph database capabilities with advanced AI models for intelligent conversation and relationship prediction.
 

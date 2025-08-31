@@ -1,4 +1,4 @@
-# NeoRAG AI 
+# NeoRAG AI
 
 - Knowledge Graph RAG Chatbot System
 
